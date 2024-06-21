@@ -1,0 +1,5 @@
+Python核心技术Scrapy框架分布式爬虫教程
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+1-12 CrawlSpider并<br> 1-12-1 12.1_First履带理解CrawlSpider并<br> CrawlSpider的1-12-2 12.2_The工作原理并<br> 1-12-3 12.3_Pass规则类确定爬行规则[ H]通过LinkExtractor类并<br> 1-12-4 12.4_Extract链接并<br> 1-13 Scrapy-Redis的分布式履带并<br> 1-13-1 13.1_Scrapy-Redis的介绍并<br> 13.2 1-13-2 _Scrapy-Redis的完整的体系结构并<br> 1-13-3 13.3_Scrapy-Redis的操作过程并<br> 1-13-4 13.4_Scrapy-Redis的主要成分并<br> 1-13 -5 13.5_Install Scrapy-Redis的并<br> 1 -13-6 13.6_Install并开始Redis的数据库并<br> 1-13-7 13.7_Modify配置文件redis.conf并<br> 1-13-8 13.8_Distribution策略并<br> 1-13-9 13.9_Test从动端 远程连接到主端并<br> 10年1月13日13.10_Create一个Scrapy项目和设定了Scrapy-Redis的部件并<br> 11年1月13日13.11_Clearly捕获得目标并<br> 12年1月13日13.12_Create 蜘蛛抓取网页并<br> 13年1月13日13.13_Execute分布式履带并<br> 14年1月13日13.14_Use多个管道存储并<br> 1 -13-15 13.15_Proce SS在Redis的数据库中的数据

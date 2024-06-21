@@ -1,0 +1,5 @@
+野菩萨人工智能Ai绘画第5期
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──01前导课程（完结）<br> | ├──前导课程-1 小cui老师带你玩转midjourney.mp4 927.46M<br> | ├──前导课程02 AIGC入门通识必学系列直播.mp4 417.00M<br> | └──前导课程03 Stable Diffusion部署安装及文生图必学系列.mp4 777.48M<br> ├──02正式课程（完结）<br> | ├──S5Day01-1AI摄影-虚拟的真实[AI章节].mp4 1.87G<br> | ├──S5Day01-2AI摄影影-虚拟的真实[AI章节.mp4 602.19M<br> | ├──S5Day02-Al绘画-从绘画开始[AI章节].mp4 1.70G<br> | ├──S5Day03AI二次元与商插-理想照进现实[AI章节.mp4 1.83G<br> | ├──S5Day04 3D与抽象[AI章节].mp4 846.28M<br> | ├──S5Day05 AI产品与工艺[AI章节] .mp4 571.13M<br> | ├──S5Day06AI电影-穿越的大门[AI章节](.mp4 779.69M<br> | ├──S5Day07词汇的纸牌屋[AI章节].mp4 639.96M<br> | ├──S5Day08.SD图生图与局部重绘.mp4 850.74M<br> | ├──S5Day09ControlNet.mp4 1.18G<br> | ├──S5Day10Lora模型训练.mp4 1.08G<br> | ├──S5Day11控制随机性[AI章节] .mp4 996.21M<br> | └──S5Day12用AI绘画学会学习(End).mp4 1.07G<br> └──03不定时加餐课（完结）<br> | ├──加餐 AI时代如何打造个人操作系统.mp4 524.39M<br> | ├──加餐 MJ和SD详尽对比.mp4 688.16M<br> | └──加餐 大语言模型如何助力求职&amp;面试.mp4 977.72M

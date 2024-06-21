@@ -1,0 +1,5 @@
+网工必学必会课程 XCNP课程-思科CCNP+华为HCIP全新融合技术 一门课程两门技术
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+(1)\XCNP 路由部分；目录中文件数:16个<br> ├─01-第一节（静态路由，SLA，BFD，ODR）.mp4<br> ├─02-第二节（SLA扩展，EIGRP协议）.mp4<br> ├─03-第三节（EIGRP协议-下，OSPF复习）.mp4<br> ├─04-第四节（OSPF协议）.mp4<br> ├─05-第五节（OSPF协议）.mp4<br> ├─06-第六节（OSPF协议）.mp4<br> ├─07-第七节（OSPF协议，策略开头）.mp4<br> ├─08-第八节（分发列表，PBR，重分布，route-map）.mp4<br> ├─09-第九节（BGP-1）.mp4<br> ├─10-第十节（BGP-2）.mp4<br> ├─11-第十一节（BGP-3）.mp4<br> ├─12-第十二节（BGP-4）.mp4<br> ├─13-第十三节（BGP-5 &amp; 综合实验）.mp4<br> ├─14-第十四节（综合实验 &amp; IS-IS协议）.mp4<br> ├─15-第十五节（IS-IS协议）.mp4<br> ├─16-第十六节（IPv6协议）.mp4<br> (2)\ XCNP 交换部分；目录中文件数:10个<br> ├─01-第一节（交换基础入门）.mp4<br> ├─02-第二节（VLAN，EC链路聚合）.mp4<br> ├─03-第三节（STP回顾，PVST,PVST+）.mp4<br> ├─04-第四节（RSTP+MST+端口安全）.mp4<br> ├─05-第五节（HSRP+VRRP+DHCP扩展）.mp4<br> ├─06-第六节（华为堆迭）.mp4<br> ├─07-第七节（VACL，端口保护，PVLAN，HTTP，SSH.mp4<br> ├─08-第八节（VxLAN技术-1）.mp4<br> ├─09-第九节（VxLAN技术-2+端口镜像）.mp4<br> ├─10-第十节（VxLAN技术-3）.mp4

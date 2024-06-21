@@ -1,0 +1,5 @@
+从基础到实战，手把手教你做出一个黑马电影WebApp
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+┃ ┣━hm0076 – 从基础到实战，手把手教你做出一个黑马电影WebApp<br> ┃ ┃ ┃ ┃ ┃ ┣━15 8.完成了详情页面的渲染【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━13 6.列表页面导航栏的处理【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━10 3.完成了首页渲染【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━03 3.Vue3.0使用的两种方式【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━04 4.使用脚手架生成项目【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━07 7.父组件传值【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━11 4.封装了NavBar子组件【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━05 5.Vue3.0数据和方法【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━06 6.computed、watch、生命周期函数【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━12 5.编程式导航【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━08 1.生成项目【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━14 7.完成了列表页面的渲染【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━01 1.基本介绍【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━02 2.Vue3.0新特性介绍【www.dbbp.net】.mp4<br> ┃ ┃ ┃ ┃ ┃ ┣━09 2.路由配置&amp;网络请求封装【www.dbbp.net】.mp4

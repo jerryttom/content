@@ -1,0 +1,5 @@
+慕课体系课_PHP工程师
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──php教辅材料<br> | ├──HTML入门.pdf 1.00M<br> | ├──HTML入门源码.zip 9.04M<br> | ├──HTML属性标签大全.pdf 499.18kb<br> | ├──Macrar文件解压工具.zip 15.40M<br> | ├──PackageControl.rar 262.83kb<br> | ├──SublimeText3安装教辅.pdf 659.43kb<br> | ├──SublimeText3手动安装插件.pdf 556.88kb<br> | ├──sublime插件安装.pdf 723.34kb<br> | └──Sublime快捷键教辅.pdf 498.29kb<br> ├──海量资源dbbp.net<br> ├──阶段1 PHP小白零基础入门<br> | ├──步骤二：PHP初体验<br> | ├──步骤三：PHP函数库<br> | ├──步骤四：PHP常用操作<br> | ├──步骤五：PHP面向过程实战开发<br> | └──步骤一：网页搭建入门<br> ├──阶段2 PHP常用技术与ThinkPHP5框架开发<br> | ├──步骤二：PHP常规操作<br> | ├──步骤三：PHP应用扩展<br> | ├──步骤四：THinkPHP5框架开发<br> | └──步骤一：面向对象<br> ├──阶段3 PHP典型功能与Laravel5框架开发<br> | ├──步骤二：PHP典型功能运用<br> | ├──步骤三：Laravel5框架基础<br> | ├──步骤四：实战Laravel5开发慕课简书<br> | ├──步骤五：Swoole入门<br> | └──步骤一：PHP的Redis应用及HTTP协议<br> └──更多it资源免费获取.png 333.70kb

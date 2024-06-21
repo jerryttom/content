@@ -1,0 +1,5 @@
+Kaggle十大案例精讲课程
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+<a href="https://www.52fun.com/wp-content/uploads/2021/04/1618637623-ac6e280f8341e28.png" data-fancybox="images"><img fetchpriority="high" decoding="async" class="alignnone size-full wp-image-40395" src="https://www.52fun.com/wp-content/uploads/2021/04/1618637623-ac6e280f8341e28.png" sizes="(max-width: 1092px) 100vw, 1092px" srcset="https://www.52fun.com/wp-content/uploads/2021/04/1618637623-ac6e280f8341e28.png 1092w, https://www.52fun.com/wp-content/uploads/2021/04/1618637623-ac6e280f8341e28-72x300.png 72w, https://www.52fun.com/wp-content/uploads/2021/04/1618637623-ac6e280f8341e28-768x3186.png 768w, https://www.52fun.com/wp-content/uploads/2021/04/1618637623-ac6e280f8341e28-247x1024.png 247w" alt="" width="1092" height="4530"></a>

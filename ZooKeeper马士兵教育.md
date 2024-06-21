@@ -1,0 +1,5 @@
+ZooKeeper【马士兵教育】
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+msb022-ZooKeeper【马士兵教育】<br> 0 ZooKeeper<br> 1 ZooKeeper介绍<br> 1 ZooKeeper介绍-.mp4<br> 2 ZooKeeper安装<br> 1 ZooKeeper安装-.mp4<br> 11 watch<br> 1 watch-.mp4<br> 10 演示<br> 1 演示-.mp4<br> 3 ZooKeeper应用<br> 1 ZooKeeper应用-.mp4<br> 14 分布式锁<br> 1 分布式锁-.mp4<br> 6 ZooKeeper原理<br> 1 ZooKeeper原理-.mp4<br> 12 API<br> 1 API-.mp4<br> 7 Paxos<br> 1 Paxos-.mp4<br> 0 Redis知识回顾<br> 1 Redis知识回顾-.mp4<br> 13 分布式配置注册发现<br> 1 分布式配置注册发现-.mp4<br> 5 安装四台机子的原因<br> 1 安装四台机子的原因-.mp4<br> 9 ZAB选主<br> 1 ZAB选主-.mp4<br> 8 ZAB有主<br> 1 ZAB有主-.mp4<br> 4 安装总结<br> 1 安装总结-.mp4<br> 0 ZooKeeper<br> 7 Paxos<br> 4 安装总结<br> 6 ZooKeeper原理<br> 5 安装四台机子的原因<br> 12 API<br> 9 ZAB选主<br> 14 分布式锁<br> 10 演示<br> 11 watch<br> 8 ZAB有主<br> 0 Redis知识回顾<br> 13 分布式配置注册发现<br> 2 ZooKeeper安装<br> 1 ZooKeeper介绍<br> 3 ZooKeeper应用

@@ -1,0 +1,5 @@
+Vue3+TypeScript 前端进阶必修课
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+1.邂逅Vue3和Vue3开发体验.mp4<br> 10.Vite3新增语法特性（⼆）.mp4<br> 11.Vue3实现过渡动画.mp4<br> 12.Vue3其他语法补充.mp4<br> 13.网络请求axios使用和封装.mp4<br> 14.Element-Plus组件库的使⽤.mp4<br> 15.ECharts可视化库的使⽤.mp4<br> 16.vue-router4.x的使用（一）.mp4<br> 17.vuex4.x的使⽤（⼆）.mp4<br> 18.vuex4.x的使⽤（三）.mp4<br> 19.TypeScript核心精讲（一）.mp4<br> 2.Vue3基础语法（⼀）.mp4<br> 20.TypeScript核⼼精讲（⼆）.mp4<br> 21.TypeScript核⼼精讲（三）.mp4<br> 22.TypeScript核⼼精讲（三）.mp4<br> 23.后台管理系统项⽬实战（⼀）.mp4<br> 24.后台管理系统项目实战（二）.mp4<br> 25.Vuex核心概念和nexttick知识补充.mp4<br> 26.后台管理系统项⽬实战（四）.mp4<br> 27.typeScript精讲2.mp4<br> 28.后台管理系统项⽬实战（六）（2）.mp4<br> 29.后台管理系统项⽬实战（七）.mp4<br> 3.Vue3基础语法（⼆）.mp4<br> 30.项目打包优化、自动化部署.mp4<br> 4.Vue3基础语法（三）.mp4<br> 5.Vue3组件化开发（⼀）.mp4<br> 6.Vue3组件化开发（⼆）.mp4<br> 7.Webpack5搭建Vue环境.mp4<br> 8.Vite2搭建Vue环境.mp4<br> 9.Vite3新增语法特性（一）.mp4<br> 【公开课】coderwhy_Vue3+TypeScript.mp4

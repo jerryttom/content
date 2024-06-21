@@ -1,0 +1,5 @@
+从入门到实战，轻松完成Angular8构建CRM系统
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+┣━mksz375 – 从入门到实战，轻松完成Angular8构建CRM系统<br> ┣━第5章 结合CRM案例学习Angular组件<br> ┣━5-3 组件模板[2].mp4<br> ┣━5-2 component元数据[2].mp4<br> ┣━5-5 内置属性型指令[2].mp4<br> ┣━5-1 component简介[2].mp4<br> ┣━5-7 生命周期钩子[2].mp4<br> ┣━5-4 绑定语法[2].mp4<br> ┣━5-6 内置结构型指令[2].mp4<br> ┣━第2章 Angular开发环境配置<br> ┣━2-1 安装环境[2].mp4<br> ┣━2-5 cli-generate[2].mp4<br> ┣━2-2 cli-new[2].mp4<br> ┣━2-3 cli-serve[2].mp4<br> ┣━2-4 cli-build[2].mp4<br> ┣━课程资料<br> ┣━代码资料.zip<br> ┣━第4章 结合CRM案例学习Angular模块<br> ┣━4-2 给CRM案例创建模块[2].mp4<br> ┣━4-1 Angular模块[2].mp4<br> ┣━第6章 结合CRM案例学习Angular路由<br> ┣━6-3 加载路由[2].mp4<br> ┣━6-1 路由模块[2].mp4<br> ┣━6-5 传递参数[2].mp4<br> ┣━6-2 路由配置[2].mp4<br> ┣━6-4 链接及访问[2].mp4<br> ┣━第1章 Angular简介<br> ┣━1-2 Angular概述_[2].mp4<br> ┣━1-1 框架和库_[2].mp4<br> ┣━第3章 Angular项目目录及基本文件说明<br> ┣━3-3 文件加载顺序[2].mp4<br> ┣━3-1 目录结构[2].mp4<br> ┣━3-2 应用源码目录[2].mp4<br> ┣━第7章 结合CRM案例学习Angular中的服务<br> ┣━7-1 Angular服务[2].mp4

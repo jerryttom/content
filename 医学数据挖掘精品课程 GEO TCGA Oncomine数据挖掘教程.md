@@ -1,0 +1,5 @@
+医学数据挖掘精品课程 GEO TCGA Oncomine数据挖掘教程
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──资料<br> | ├──perl<br> | | ├──ensemblToSymbol.pl 0.64kb<br> | | ├──gb2symbol.pl 0.72kb<br> | | ├──mRNA_merge.pl 1.72kb<br> | | ├──probe2symbol.pl 2.28kb<br> | | ├──putFilesToOneDir.pl 0.36kb<br> | | └──survival_time.pl 1.17kb<br> | ├──GEO.txt 6.83kb<br> | ├──GEO中非cel文件脚本.txt 2.01kb<br> | └──TCGA.txt 6.96kb<br> ├──1 数据挖掘概述.mp4 24.91M<br> ├──10 TCGA数据整理和基因注释.mp4 54.01M<br> ├──11 寻找差异基因和制作5年生存率.mp4 88.81M<br> ├──12 oncomine概述及meta分析.mp4 53.89M<br> ├──13 oncomine之差异分析及共达分析.mp4 55.71M<br> ├──14 非cel格式GEO芯片数据分析.mp4 49.18M<br> ├──2 geo在线工具应用.mp4 51.11M<br> ├──3 geo数据下载和数据质量分析.mp4 38.47M<br> ├──4 原始数据预处理.mp4 52.37M<br> ├──5 寻找差异基因及制作热图和火山图 (1).mp4 72.77M<br> ├──6 GO富集分析.mp4 61.94M<br> ├──7 KEGG分析.mp4 61.44M<br> ├──8 蛋白互作网络.mp4 50.28M<br> └──9 TCGA数据下载.mp4 44.61M

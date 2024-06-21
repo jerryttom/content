@@ -1,0 +1,5 @@
+谷歌的移动UI框架Flutter实战 企业级APP实战开发高级案例课程 Flutter开发深入浅出
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+教程目录：<br> ├─1_Flutter从入门到精通-说明.mp4<br> ├─2_企业站APP-概述.mp4<br> ├─3_企业站APP-Flutter环境准备.mp4<br> ├─4_企业站APP-Dart后台环境准备.mp4<br> ├─5_企业站APP-新建工程.mp4<br> ├─6_企业站APP-Server-启动服务.mp4<br> ├─8_企业站APP-Server-JSON数据处理.mp4<br> ├─9_企业站APP-Server-前后端数据联调.mp4<br> ├─10_企业站APP-Client-编写入口程序.mp4<br> ├─11_企业站APP-Client-编写加载页面.mp4<br> ├─12_企业站APP-Client-主组件处理.mp4<br> ├─13_企业站APP-Client-首页轮播图处理.mp4<br> ├─14_企业站APP-Client-查询–产品数据.mp4<br> ├─15_企业站APP-Client-产品数据模型层.mp4<br> ├─16_企业站APP-Client—产品展示.mp4<br> ├─17_企业站APP-Client-产品详情展示.mp4<br> ├─18_企业站APP-Client-获取产品列表数据.mp4<br> ├─19_企业站APP-Client-产品列表展示.mp4<br> ├─20_企业站APP-Client-新闻模块处理.mp4<br> ├─21_企业站APP-Client-编写关于我们页面.mp4<br> ├─22_企业站APP-Client-给我留言模块处理.mp4<br> ├─23_企业站APP-项目总结.mp4<br> ├─企业站APP-前后端数据联调源码-01.zip<br> ├─源码.zip

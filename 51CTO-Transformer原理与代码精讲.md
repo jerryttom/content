@@ -1,0 +1,5 @@
+51CTO-Transformer原理与代码精讲
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──01 课程介绍<br> | └──01 课程介绍.mp4 39.50M<br> ├──02 Transformer原理精讲<br> | ├──01 注意力机制和自注意力机制.mp4 99.60M<br> | ├──02 Transformer的架构概述.mp4 34.81M<br> | ├──03 Transformer Encoder的多头注意力.mp4 48.62M<br> | ├──04 Transformer Encoder的位置编码.mp4 17.06M<br> | ├──05 Transformer 残差链接、LayerNorm、FFN.mp4 19.01M<br> | ├──06 Transformer Decoder.mp4 20.00M<br> | ├──07 Transformer的训练及性能.mp4 36.92M<br> | └──08 Transformer的机器翻译工作流程.mp4 6.11M<br> ├──03 Transformer代码精讲（Pytorch）<br> | ├──01 安装pytorch.mp4 32.55M<br> | ├──02 Transformer的Encoder代码解读.mp4 54.68M<br> | ├──03 Transformer的Decoder代码解读.mp4 82.76M<br> | ├──04 Transformer的超参设置代码解读.mp4 27.31M<br> | ├──05 Transformer的训练示例（人为随机数据）代码解读.mp4 29.27M<br> | └──06 Transformer的训练示例(机器翻译)代码解读.mp4 65.15M<br> └──04 Transformer代码精讲（TensorFlow 2）<br> | ├──01 安装TensorFlow.mp4 22.01M<br> | ├──02 Transformer的数据集加载与预处理代码解读.mp4 37.64M<br> | ├──03 Transformer的位置编码与多头注意力代码解读.mp4 70.30M<br> | ├──04 Transformer的Transformer类代码解读.mp4 61.00M<br> | ├──05 Transformer的优化器与损失函数代码解读.mp4 24.89M<br> | ├──06 Transformer的训练代码解读.mp4 25.30M<br> | └──07 Transformer的推理与权重保存代码解读.mp4 50.63M

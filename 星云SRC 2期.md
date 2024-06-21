@@ -1,0 +1,5 @@
+星云SRC 2期
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──资料及工具<br> | ├──ppt<br> | | ├──1.信息收集.pdf 3.06M<br> | | ├──10.框架漏洞.pdf 4.68M<br> | | ├──11.云安全.pdf 4.43M<br> | | ├──12.小程序漏洞挖掘.pdf 2.51M<br> | | ├──14.cnvd+edu.pdf 3.29M<br> | | ├──2.弱口令.pdf 3.61M<br> | | ├──3.并发.pdf 2.54M<br> | | ├──4.越权.pdf 4.45M<br> | | ├──5.cors&amp;xss漏洞.pdf 3.87M<br> | | ├──6.未授权.pdf 5.28M<br> | | ├──7.逻辑漏洞.pdf 7.33M<br> | | ├──8.ssrf+rce.pdf 5.66M<br> | | └──9.csrf&amp;蠕虫.pdf 3.86M<br> | ├──工具<br> | | ├──enscan<br> | | ├──指纹识别<br> | | ├──子域名挖掘机5.0最新版<br> | | ├──jadx-gui-1.3.3-1-no-jre-win.zip 29.07M<br> | | ├──turbo-intruder-all(1).jar 43.42M<br> | | └──小程序工具.zip 228.23M<br> | ├──User_Pwds.txt 10.55kb<br> | └──信息收集.docx 10.23kb<br> ├──01.红队信息收集.mp4 1.76G<br> ├──02.弱口令.mp4 1.70G<br> ├──03.并发.mp4 1.05G<br> ├──04.越权.mp4 1.16G<br> ├──05.cors&amp;xss.mp4 1.31G<br> ├──06.未授权&amp;fuzz.mp4 1.94G<br> ├──07.验证码&amp;逻辑漏洞.mp4 1.30G<br> ├──08.ssrf&amp;rce.mp4 1.87G<br> ├──09.csrf&amp;蠕虫.mp4 1.57G<br> ├──10.框架漏洞.mp4 1.51G<br> ├──11.云安全.mp4 1.83G<br> ├──12.小程序漏洞挖掘.mp4 2.07G<br> ├──13.app漏洞挖掘.mp4 3.10G<br> ├──14.cnvd&amp;edusrc.mp4 2.07G<br> └──15.公益src&amp;威胁情报.mp4 1.76G

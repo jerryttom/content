@@ -1,0 +1,5 @@
+从0开发一个Django博客系统
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+——/付费资源/IT资源区/99-其他平台会员/005-黑马程序员全站/hm0010 – 从0开发一个Django博客系统/<br> ├──视频-从0开发一个Django博客系统【www.dbbp.net】<br> | ├──00-引言【www.dbbp.net】<br> | ├──01-项目准备【www.dbbp.net】<br> | ├──02-注册【www.dbbp.net】<br> | ├──03-登录【www.dbbp.net】<br> | ├──05-用户中心【www.dbbp.net】<br> | ├──06-写博客【www.dbbp.net】<br> | ├──07-博客首页【www.dbbp.net】<br> | ├──08-博客详情【www.dbbp.net】<br> | └──09-总结【www.dbbp.net】<br> ├──视频-从0开发一个Django博客系统【www.dbbp.net】<br> | ├──00-引言【www.dbbp.net】<br> | ├──01-项目准备【www.dbbp.net】<br> | ├──02-注册【www.dbbp.net】<br> | ├──03-登录【www.dbbp.net】<br> | ├──05-用户中心【www.dbbp.net】<br> | ├──06-写博客【www.dbbp.net】<br> | ├──07-博客首页【www.dbbp.net】<br> | ├──08-博客详情【www.dbbp.net】<br> | ├──09-总结【www.dbbp.net】<br> | └──学资源免费下载【www.dbbp.net】.html 0.21kb<br> └──资料-从0开发一个Django博客系统【www.dbbp.net】<br> | ├──学资源免费下载.html 0.21kb<br> | └──资料.zip 102.41M

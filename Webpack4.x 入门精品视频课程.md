@@ -1,0 +1,5 @@
+Webpack4.x 入门精品视频课程
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+<span style="font-size: large;"><span style="font-family: Tahoma;"><span style="color: #0000ff;"><strong>〖课程目录〗:</strong></span></span></span><br> <span style="font-family: &amp;quot;">&nbsp;&nbsp;</span><br> 01_01_Webpack入门和安装.mp4<br> 02_02_模块打包和配置.mp4<br> 03_03_DevServer服务.mp4<br> 04_04_Plugin部署Html插件.mp4<br> 05_05_Loader打包CSS文件.mp4<br> 06_06_Loader打包图片文件.mp4<br> 07_07_分离CSS_分类打包.mp4<br> 08_08_PostCss兼容性转换.mp4<br> 09_09_Babel转换ES6.mp4<br> 10_10_ESLint校验JS代码.mp4<br> 11_11_多页面配置打包.mp4<br> 12_12_压缩Html和Css代码.mp4<br> 13_13_打包Ts和Scss.mp4<br> 14_14_Resolve模块解析.mp4<br> 15_15_Source_Map配置.mp4<br> 16_16_watch监听和clean清理.mp4<br> 17_17_HMR热替换.mp4<br> 18_18_Axios跨域请求.mp4<br> 19_19_环境分离设置.mp4<br> 20_20_打包优化和dist服务.mp4<br> webpack4.x讲义和代码.zip

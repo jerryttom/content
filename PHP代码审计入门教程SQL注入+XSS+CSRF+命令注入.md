@@ -1,0 +1,5 @@
+PHP代码审计入门教程（SQL注入+XSS+CSRF+命令注入）
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+目录<br> 1-1课程介绍与环境搭建.exe<br> 2-1HTML常用标签.exe<br> 2-2HTML表单.exe<br> 2-3PHP基本语法.exe<br> 2-4PHP选择和循环语句.exe<br> 2-5PHP操作数据库.exe<br> 3-10高职比赛SQL注入试题分析二.exe<br> 3-1low级别SQL注入代码分析.exe<br> 3-2SQL注入漏洞的利用.exe<br> 3-3medium级别SQL注入分析.exe<br> 3-4high级别SQL注入分析.exe<br> 3-5盲注、搜索型注入及漏洞挖掘.exe<br> 3-6sqlmap的高级应用.exe<br> 3-7搭建PHP加SQLServer的Web环境.exe<br> 3-8SQL Server的注入特性.exe<br> 3-9高职比赛SQL注入试题分析一.exe<br> 4-1利用Burpsuite进行暴力破解.exe<br> 4-2Brute Force代码分析与防范措施.exe#<br> 5-10XSS代码分析及工具使用.exe<br> 5-11CSRF攻击介绍与实施.exe<br> 5-12CSRF攻击代码分析.exe<br> 5-13高职比赛CSRF试题分析.exe<br> 5-1JavaScript语言基础.exe<br> 5-2JavaScript语言基础2.exe<br> 5-3XSS攻击基础.exe<br> 5-4利用XSS盗取并利用cookie.exe<br> 5-5构造XSS语句.exe<br> 5-6Metasploit的使用.exe<br> 5-7在MSF中使用木马.exe<br> 5-8传播木马.exe<br> 5-9制作木马及高职比赛XSS试题分析.exe<br> 6-1命令注入漏洞分析与利用.exe<br> 6-2命令注入漏洞防范与高职比赛试题分析.exe<br> 6-3文件上传漏洞分析.exe<br> 6-4文件包含漏洞分析.exe<br> 6-5文件包含漏洞的利用.exe<br> 6-6文件包含漏洞防范与高职比赛试题分析.exe<br> PHP代码审计入门教程（SQL注入 XSS CSRF 命令注入）.zip

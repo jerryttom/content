@@ -1,0 +1,5 @@
+全新-史上最庞大的JAVA企业超级架构师课程 4000集课程-19章节-8个顶级项目JAVA就业班
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+<strong>01-就业课(2.1)-JavaSE基础</strong><br> <strong>02-就业课(2.1)-JavaWeb</strong><br> <strong>03-就业课(2.1)-Spring</strong><br> <strong>04-就业课(2.1)-SpringMVC</strong><br> <strong>05-就业课(2.1)-Spring+SpringMVC综合练习</strong><br> <strong>06-就业课(2.1)-Mybatis</strong><br> <strong>07-就业课(2.1)-Maven高级</strong><br> <strong>08-就业课(2.1)-Git</strong><br> <strong>09-就业课(2.1)-Dubbo</strong><br> <strong>10-就业课(2.1)-Vue</strong><br> <strong>11-就业课(2.1)-SpringBoot微服务快速开发</strong><br> <strong>12-就业课(2.1)-消息中间件-RabbitMQ</strong><br> <strong>13-就业课(2.1)-微服务-Spring Cloud</strong><br> <strong>14-就业课(2.1)-搜索引擎-ElasticSearch</strong><br> <strong>15-就业课（2.1)-前端-Node.js与ES6</strong><br> <strong>16-就业课(2.1)-应用容器-Docker</strong><br> <strong>17-就业课(2.1)-最新项目大全</strong><br> <strong>18-就业课(2.1)-扩展选学</strong><br> <strong>19-面试指导精华版</strong>

@@ -1,0 +1,5 @@
+完全实战学习Python开发-第7期-老男孩
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+┣━boy011-完全实战学习Python开发-第7期-老男孩<br> ┣━L12-oldboy-python-video-day12.zip<br> ┣━L11-oldboy-python-video-day11.zip<br> ┣━L14-oldboy-python-video-day14.zip<br> ┣━L16-oldboy-python-video-day16-监控系统.zip<br> ┣━L15-oldboy-python-video-day15-CMDB.zip<br> ┣━L13-oldboy-python-video-day13.zip<br> ┣━L04-oldboy-python-video-day4.zip<br> ┣━L10-oldboy-python-video-day10.zip<br> ┣━L01-oldboy-python-video-day1.zip<br> ┣━L07-oldboy-python-video-day7.zip<br> ┣━L09-oldboy-python-video-day9.zip<br> ┣━更多精品教程.html<br> ┣━L17-oldboy-python-video-day17_lastday.zip<br> ┣━L02-oldboy-python-video-day2.zip<br> ┣━L05-oldboy-python-video-day5.zip<br> ┣━L08-oldboy-python-video-day8.zip<br> ┣━L06-oldboy-python-video-day6.zip<br> ┣━L03-oldboy-python-video-day3.zip

@@ -1,0 +1,5 @@
+基于Node.js开发个性化全网内容抓取平台视频课程 Node实战教程
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+<strong>00课前预习内容</strong><br> <strong>01 搭建http服务</strong><br> <strong>02 Express基础</strong><br> <strong>03 Express中的MVC</strong><br> <strong>04 MongoDB实操</strong><br> <strong>05 mongoose</strong><br> <strong>06 Node.js异步最佳实践</strong><br> <strong>07 错误处理和日志</strong><br> <strong>08 鉴权</strong><br> <strong>09 爬虫系统初步</strong><br> <strong>10 鉴权实战和爬虫实战1</strong><br> <strong>11 Redis+爬虫实战</strong><br> <strong>12 使用pm2管理爬虫进程</strong><br> <strong>13 推荐系统初步</strong><br> <strong>14 微服务初步和实战</strong><br> <strong>15 在AWS部署服务</strong><br> <strong>16 推荐系统实战-爬虫协议的实现</strong><br> <strong>17 ElasticSearch 基础</strong><br> <strong>18 OAuth2.0 和微信登录</strong><br> <strong>19 使用单元测试风格调试ES相关代码</strong><br> <strong>20 评分完结篇和实战</strong>

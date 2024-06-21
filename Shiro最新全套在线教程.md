@@ -1,0 +1,5 @@
+Shiro最新全套在线教程
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+01.权限管理概述.avi<br> 02.shiro认识.avi<br> 03.使用ini完成认证.avi<br> 04.shiro登录登出流程分析.avi<br> 05.自定义realm登录登出.avi<br> 06.加密realm登录登出.avi<br> 07.RBAC权限模型理解.avi<br> 08.ini方式检查用户拥有角色.avi<br> 09.ini方式检查用户拥有权限.avi<br> 10.自定义realm检查用户拥有权限.avi<br> 11.shiro授权流程分析.avi<br> 12.web集成-集成原理.avi<br> 13.web集成-项目准备.avi<br> 14.web集成-web.xml解析.avi<br> 15.web集成-shiro默认过滤器.avi<br> 16.web集成-authc拦截器工作原理.avi<br> 17.web集成-jsp标签权限控制.avi<br> 18.web集成-登出操作.avi<br> 19.spring集成-项目准备.avi<br> 20.spring集成-shiro配置.avi<br> 21.spring集成-登录操作.avi<br> 22.spring集成-静态注解授权.avi<br> 23.spring集成-静态注解授权_补充.avi<br> 24.spring集成-权限-角色-用户关系分析.avi<br> 25.spring集成-加载权限表达式.avi<br> 26.spring集成-权限分配.avi<br> 27.spring集成-数据库方式授权.avi<br> 28.spring集成-缓存管理.avi<br> 29.spring集成-密码加密.avi<br> 30.spring集成-最后完善.avi

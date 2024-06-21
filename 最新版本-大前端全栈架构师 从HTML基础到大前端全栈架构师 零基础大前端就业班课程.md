@@ -1,0 +1,5 @@
+最新版本-大前端全栈架构师 从HTML基础到大前端全栈架构师 零基础大前端就业班课程
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├─01-HTML.zip<br> ├─02-CSS.zip<br> ├─03-电商XM.zip<br> ├─04-HTML5CSS3.zip<br> ├─05-06-Flex.zip<br> ├─07-JavaScript.zip<br> ├─08-WebAPI.zip<br> ├─09-jQuery.zip<br> ├─10-JS含ES6.zip<br> ├─11-Node+Gulp_.zip<br> ├─12-MongoDB-Express.zip<br> ├─13-实战.zip<br> ├─14-Ajax.zip<br> ├─15-Git和GitHub.zip<br> ├─16-项目实战2.zip<br> ├─17-Vue.zip<br> ├─18-ES6化和webpack.zip<br> ├─19-Vue-cli3和Element-UI.zip<br> ├─20-Vue电商项目.zip<br> ├─21-Vue.js实战.zip<br> ├─22-微信小程序.zip<br> ├─23-React.zip<br> ├─24-ReactNative项目.zip<br> ├─25-Angular5.zip<br> ├─26-Angular5项目.zip<br> (2)\\全套前端资料；目录中文件数:6个<br> ├─01-03 前端开发基础.rar<br> ├─04-06 移动Web网页开发.rar<br> ├─07-10 JavaScript网页编程.rar<br> ├─11-16 前后端交互.rar<br> ├─17-21 Vue.js项目实战开发.rar<br> ├─22-26 拓展课程.rar

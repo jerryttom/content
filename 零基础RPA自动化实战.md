@@ -1,0 +1,5 @@
+零基础RPA自动化实战
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──课件<br> | ├──1.rar 201.80M<br> | ├──10.txt 0.58kb<br> | ├──11.txt 0.34kb<br> | ├──12.txt 0.33kb<br> | ├──13.txt 0.53kb<br> | ├──15.txt 1.30kb<br> | ├──16.txt 0.85kb<br> | ├──17.js 2.77kb<br> | ├──18.js 1.43kb<br> | ├──2.exe 79.02M<br> | ├──4.txt 0.67kb<br> | ├──5.txt 0.86kb<br> | ├──6.txt 1.06kb<br> | ├──7.txt 0.29kb<br> | ├──8.txt 0.87kb<br> | └──9.txt 0.96kb<br> └──视频<br> | ├──1.AIBOTE安装和目录介绍.mp4 149.04M<br> | ├──10.类class.mp4 49.97M<br> | ├──11.类属性的set和get.mp4 21.22M<br> | ├──12.类的私有属性方法.mp4 37.79M<br> | ├──13.类的继承.mp4 61.14M<br> | ├──14.require导包.mp4 41.82M<br> | ├──15.node操作文件.mp4 150.37M<br> | ├──16.瑞数网站爬虫示例.mp4 305.45M<br> | ├──17.浏览器自动化爬虫.mp4 343.93M<br> | ├──18.windows自动化填表.mp4 241.63M<br> | ├──2.vscode编辑器安装.mp4 63.28M<br> | ├──3.脚本语言介绍.mp4 121.71M<br> | ├──4.基本数据类型.mp4 66.00M<br> | ├──5.复杂数据类型.mp4 123.56M<br> | ├──6.循环判断语句.mp4 89.43M<br> | ├──7.const关键词.mp4 43.87M<br> | ├──8.Promise对象.mp4 74.72M<br> | └──9.async和await.mp4 103.98M

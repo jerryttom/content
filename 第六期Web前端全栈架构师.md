@@ -1,0 +1,5 @@
+第六期Web前端全栈架构师
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+27.React首日[127M]<br> ┣━━27class React（2018.12.18）.zip [568K]<br> ┗━━react_27.mp4[126.4M]<br> 28.React第二日[127.4] M]<br> ┣━━28节React（2018.12.20）.zip [158.4K]<br> ┗━━react_28.mp4[127.3M]<br> 29.React第三天[155.3M]<br> 29━━29节React（2018.12.22）.zip [141.7K]<br> ━━━react_29.mp4[155.2M]<br> 30。反应起点和终点以及角度[134.3M]<br> ┣━ ━━30Lesson React Ending and Angular（2018.12.25）.zip [160.7K]<br> ━━━react_30.mp4[134.2M]<br> 31。 开发微信公众号[129.6M]<br> ━━━31课微信公众号开发（2018.12.27）.zip [7.7K]<br> ┗━━weixgongzhonghao.mp4[129.6M]<br> 32。 微信小程序[133.5M]<br> ┣━━32节微信小程序（2018.12.29）.zip [620.3K]<br> ┗━━weixinxiaochengxu.mp4 [132.9M]<br> 33.React-native [70.5M]<br> ┣━━33节React-Native（2019.1.3）.zip [105.7K]<br> ┗━━RN_1.mp4[70.4M]<br> 34。 混合应用程序结束[154.7M]<br> 第34课混合应用程序结束（2019.1.5）.zip [581.7K]<br> ━━RN_2.mp4[154.2M]<br> 35。 性能优化和安全性[138.8M]<br> ┗━━anquan.mp4[138.8M]<br> kkb课程大纲-蓝色教师.pdf [105K]

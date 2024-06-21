@@ -1,0 +1,5 @@
+C++TensorRT高性能部署 _ 恩培-计算机视觉
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+──10_实战项目1——YoloV5人体系列第2节_ev.mp4 316.58M<br> ├──11_实战项目1——YoloV5人体系列第3节_ev.mp4 956.62M<br> ├──12_插件plugin——decode原理_ev.mp4 87.91M<br> ├──13_插件plugin——代码示意_ev.mp4 242.43M<br> ├──14_Yolov5_deepstream越界流量分析_ev.mp4 1.37G<br> ├──15_Facenet人脸检测、识别、属性（性别、表情等）_ev.mp4 918.09M<br> ├──16_人体姿态估计及动作识别_ev.mp4 639.11M<br> ├──17_LPRNET模型训练_ev.mp4 287.34M<br> ├──18_三阶段、二阶段应用_ev.mp4 523.93M<br> ├──19_modnet抠图_ev.mp4 353.57M<br> ├──1_这个课适合谁学？学了能干嘛？_ev.mp4 18.21M<br> ├──20_实战项目——SMOKE3D目标检测_ev.mp4 376.46M<br> ├──2_C++环境配置及第一个程序的运行_ev.mp4 294.46M<br> ├──3_C++基础语法_ev.mp4 562.18M<br> ├──4_C++进阶语法——函数和指针_ev.mp4 483.15M<br> ├──5_C++进阶语法——OOP、智能指针、STL_ev.mp4 914.58M<br> ├──6_CMake基础语法——构建你的C++项目_ev.mp4 635.12M<br> ├──7_OpenCV基础_ev.mp4 416.80M<br> ├──8_TensorRT基础_ev.mp4 349.83M<br> └──9_实战项目1——YoloV5人体系列第1节_ev.mp4 603.06M

@@ -1,0 +1,5 @@
+coderwhy邂逅Webpack入门(王红元主讲)
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──1.邂逅webpack以及初体验.mp4 1.85G<br> ├──2.webpack的核⼼配置选项.mp4 1.96G<br> ├──20.开发模式构建工具vite.mp4 2.21G<br> ├──3.webpack中sourcemap等配置.mp4 1.98G<br> ├──4.webpack实现模块化的原理.mp4 1.62G<br> ├──5.webpack中常⽤的Loaders（⼀）.mp4 2.13G<br> ├──6.webpack中常⽤的Loaders（⼆）.mp4 1.92G<br> ├──7.深⼊解析Babel和webpack中配置.mp4 1.99G<br> ├──8.eslint-ts的使⽤和webpack中配置.mp4 2.03G<br> ├──9.自定义webpack的Loader.mp4 1.83G<br> ├──10.webpack中常⽤的Plugins.mp4 1.99G<br> ├──11.⾃定义webpack的Plugin.mp4 2.53G<br> ├──12.webpack性能优化之代码分包.mp4 2.20G<br> ├──13.webpack性能优化之打包效率.mp4 2.19G<br> ├──14.webpack性能优化之treeshaking.mp4 2.18G<br> ├──15.webpack打包原理解析（一）.mp4 1.83G<br> ├──16.webpack打包原理解析（⼆）.mp4 2.20G<br> ├──17.react、vue脚⼿架webpack分析.mp4 2.21G<br> ├──18.⾃动化构建⼯具gulp.mp4 1.90G<br> ├──19.模块化打包构建⼯具rollup.mp4 2.04G<br> └──课堂资料01_20.zip 39.59M

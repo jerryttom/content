@@ -1,0 +1,5 @@
+漫谈spring cloud 与 spring boot 基础架构-龙果学院
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+┣━lg014-漫谈spring cloud 与 spring boot 基础架构-龙果学院<br> ┣━00.介绍.png<br> ┣━15微服务架构为什么需要注册中心，它解决了什么问题.mp4<br> ┣━07为什么越来越多的开发者选择使用spring boot？它解决了什么问题.mp4<br> ┣━17建设高可用集群版的注册中心Eureka.mp4<br> ┣━02微服务架构.wmv<br> ┣━08spring boot的入门例子.mp4<br> ┣━06为什么springcloud要设计一套新的版本升级规则.mp4<br> ┣━03mvc rpc soa 微服务的区别.mp4<br> ┣━16一个Eureka注册中心的入门例子.mp4<br> ┣━20剖析注册中心eureka的架构原理.mp4<br> ┣━04如何设计微服务？它设计原则是什么.mp4<br> ┣━19在高可用的Eureka上，构建consumer服务.mp4<br> ┣━21基于分布式CAP定理，分析注册中心2大主流框架：Eureka和ZooKeeper的区别.mp4<br> ┣━10分析spring boot的核心配置-多环境的配置.mp4<br> ┣━13采用actuator检查与监控spring boot 的健康.mp4<br> ┣━14一种简洁可视化的监控报表-spring boot admin.mp4<br> ┣━12一种springboot的异常统一处理的方法.mp4<br> ┣━18在高可用的Eureka上，构建provider服务.mp4<br> ┣━22在什么条件下，Eureka会启动自我保护？为什么要启动自我保护.mp4<br> ┣━01单体架构的特点.mp4<br> ┣━23如何优雅停止服务？并快速安全的让Eureka注销服务.mp4<br> ┣━05为什么要选择spring cloud.mp4<br> ┣━09分析spring boot的核心配置-常规和日志配置.mp4<br> ┣━课程介绍.txt<br> ┣━11分析spring boot的核心注解.mp4

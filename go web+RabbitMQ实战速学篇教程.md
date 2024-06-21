@@ -1,0 +1,5 @@
+go web+RabbitMQ实战速学篇教程
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+<span style="font-size: large;"><span style="font-family: Tahoma;"><span style="color: #0000ff;"><strong>〖课程目录〗:</strong></span></span></span><br> <span style="font-family: &amp;quot;">&nbsp; &nbsp;</span><br> 【网课集中营】本套课程配套资料.rar<br> 第10讲 消费者限流：ACK后再收新消息.mp4<br> 第11讲 开启Confirm模式、记录失败的消息.mp4<br> 第12讲 监听消息入列回执：NotifyReturn的用法.mp4<br> 第13讲 以用户注册为例产生的事务需求、延迟队列使用 .mp4<br> 第14讲 记录消费者调用失败次数、逼格SQL技巧.mp4<br> 第15讲 事务实现：失败后重发指定次数.mp4<br> 第16讲 异构系统转账的分布式事务需求、准备工作.mp4<br> 第17讲 A公司转账业务逻辑：交易日志记录.mp4<br> 第18讲 A公司转账业务逻辑：记录日志后发送消息、几点思考.mp4<br> 第19讲 A公司转账业务逻辑：定时”无脑”补偿机制(上).mp4<br> 第1讲 开张课、为啥要用MQ.mp4<br> 第20讲 A公司转账逻辑： 补偿机制之交易失败后“还钱 ”.mp4<br> 第21讲 补偿机制之重发MQ消息、B公司记录日志.mp4<br> 第22讲 B公司业务逻辑：确认收钱.mp4<br> 第23讲 补充课时死信队列手工实现延迟队列.mp4<br> 第24讲 异步下单的基本流程、生成订单号.mp4<br> 第25讲 异步下单演示前端部分.mp4<br> 第26讲 异步下单演示MQ和后端部分.mp4<br> 第2讲 使用docker部署单机RabbitMQ、go客户端库.mp4<br> 第3讲 用最简单的方式生产者发送第一条消息.mp4<br> 第4讲 用最简单的方式消费者读取消息.mp4<br> 第5讲 简单API过程、注册流程、MQ操作简单封装.mp4<br> 第6讲 定义交换机向2个队列同时发送消息(QueueBind).mp4<br> 第7讲 补充课时：整理和调整代码结构、初始化队列等.mp4<br> 第8讲 客户端消费注册用户消息、确认消息.mp4<br> 第9讲 多消费者消费消息、重新入列.mp4

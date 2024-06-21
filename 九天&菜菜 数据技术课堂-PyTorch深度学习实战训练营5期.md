@@ -1,0 +1,5 @@
+九天&菜菜 数据技术课堂-PyTorch深度学习实战训练营（5期）
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──01-Lesson 0.1 GPU购买与GPU白嫖指南 .mp4 115.99M<br> ├──02-Lesson 0.2 PyTorch安装与部署（CPU版本） .mp4 73.91M<br> ├──03-Lesson 0.3 PyTorch安装与配置（GPU版本） .mp4 101.04M<br> ├──04-Lesson1.张量的创建与常用方法(1) .mp4 191.48M<br> ├──04-Lesson1.张量的创建与常用方法 .mp4 404.65M<br> ├──05-Lesson 2 张量的索引-分片-合并及维度调整 .mp4 305.24M<br> ├──06-Lesson 3 张量的广播和科学运算 .mp4 312.28M<br> ├──07-Lesson 4 张量的线性代数运算 .mp4 407.08M<br> ├──08-Lesson 5 基本优化方法与最小二乘法 .mp4 1.51G<br> ├──09-Lesson 6 动态计算图与梯度下降入门 .mp4 1.46G<br> ├──10-Lesson 7.1 神经网络的诞生与发展 .mp4 138.29M<br> ├──11-Lesson 7.2 机器学习中的基本概念 .mp4 132.79M<br> ├──12-Lesson 7.3 深入理解PyTorch框架 .mp4 91.73M<br> ├──13-Lesson 8.1单层回归神经网络 &amp; Tensor新手避坑指南 .mp4 172.94M<br> ├──14-Lesson 8.2 torch.nn.Linear实现单层回归网络的正向传播 .mp4 75.59M<br> ├──15-Lesson 8.3 二分类神经网络的原理与实现 .mp4 125.88M<br> ├──16-Lesson 8.4 torch.nn.functional实现单层二分类网络的正向传播 .mp4 46.66M<br> ├──17-Lesson 8.5 多分类神经网络 .mp4 122.80M<br> ├──18-Lesson 9.1 从异或门问题认识多层神经网络 .mp4 181.72M<br> ├──19-Lesson 9.2 黑箱：深度神经网络的不可解释性 .mp4 121.93M<br> └──20-Lesson 9.3 &amp; 9.4 层与激活函数 .mp4 83.10M

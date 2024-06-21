@@ -1,0 +1,5 @@
+Prometheus（kubernetes）企业级监控系统实战视频教程
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+01.监控介绍.mov<br> 02.prometheus的组件介绍.mov<br> 03.prometheus数据及安全模型介绍.mov<br> 04.prometheus在centos7上安装.mov<br> 05.prometheus在docker容器中运行.mov<br> 06.使用Node-exporter监控节点.mov<br> 07.使用容器cAdvisor监控节点.mov<br> 08.label标签的配置使用.mov<br> 09.监控cpu利用率.mov<br> 10.监控内存使用率.mov<br> 11.监控磁盘空间及预算磁盘饱满时间.mov<br> 12.监控服务状态.mov<br> 13.通过文本获取metric.mov<br> 14.通过记录规则持久查询.mov<br> 15.通过grafana监控metric.mov<br> 16.基于文件目标发现.mov<br> 17.基于DNS服务的目标发现.mov<br> 18.AlertManager介绍.mov<br> 19.AlertMangeager安装配置及设置邮件报警.mov<br> 20.添加磁盘和节点告警.mov<br> 21.添加prometheus和systemd服务.mov<br> 22.AlertManager路由配置.mov<br> 23.AlertManager静默配置.mov<br> 24.prometheus和alertmanager高可用.mov<br> 25.alaertmanager集群配置.mov<br> 26.prometheus集群配置.mov<br> 27.远端探测介绍.mov<br> 28.black_exporter配置使用.mov<br> 29.PushGateway推送网关介绍.mov<br> 30.PushGateway配置.mov<br> 31.prometheus在k8s安装环境介绍.mov<br> 32.Node_exporter在k8s上的部署.mov<br> 33.prometheus在k8s上部署.mov<br> 34.Grafana在k8s行的部署.mov<br> 35.解决Grafana中CPU不显示数据问题.mov<br> 36.AlertManager在k8s上的部署.mov<br> prometheus1-5.pdf

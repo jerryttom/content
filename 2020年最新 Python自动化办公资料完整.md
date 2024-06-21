@@ -1,0 +1,5 @@
+2020年最新 Python自动化办公资料完整
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+007_Excel_Case_Drawing with Excel.mp4<br> 008_Word_docx_将文本写入Word.mp4<br> 009_Word_docx_将图片和表格写入Word.mp4<br> 010_Word_docx_Read word.mp4<br> 011_Word_docx_格式已应用。mp4<br> 012_Word_word转换为pdf。 h] 013_Word_word批量转换为pdf，效率提高了10倍。mp4<br> 14_PDF_recognize和读取PDF.mp4<br> 15_PPT_pptx_in中的文本将文本写入PPT.mp4<br> 16_PPT_pptx_write图片和表格中的PPT.mp4<br> ] 17_PPT_pptx_set统一格式。mp4<br> 18_data analysis_pandas_import data.mp4<br> 19 _Data analysis_pandas_Pivot table.mp4<br> 20_matplotlib_Draw线图，直方图，饼图。mp4<br> 21_Data可视化_pandas_matlpotlib_excel数据。 数据正在移动图片，如何使用Python.mp4<br> 25_web_django_此处入门教程。mp4<br> 26_wxpy_Play微信，带有Python_Visual好友地理位置的统计数据。mp4<br> 27_wxpy_20行Python代码可获取所有微信朋友 头像.py.mp4<br> 28_wxpy_Deve 使用Python的lop chatbots。 h]入门02_PyCharm安装和配置_Windows.mp4<br> 32_File Management_os_使用Python.mp4搜索文件<br> 33_File Management_os_使用Python一键打开办公软件。mp4

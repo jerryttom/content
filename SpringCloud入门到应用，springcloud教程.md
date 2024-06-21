@@ -1,0 +1,5 @@
+SpringCloud入门到应用，springcloud教程
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+代码<br> └──microservicecloud.7z57.92kb<br> 01。 Spring Cloud.mp4简介55.35M<br> 02。 什么是微服务.mp4 100.05M<br> 03。 微服务技术stack.mp4 17.48M<br> 04。 为什么选择spring Cloud.mp4 58.36M<br> 05。 推荐官方网站学习.mp4 55.40M<br> 06.Spring Cloud_Rest案例-总体概述.mp4 13.46M<br> 07.Spring Cloud项目构建.mp4 18.73M<br> 08.API公共模块和部门实体步骤 .mp4 21.15M<br> 09。部门服务提供商。mp462.16M<br> 10。 部门服务提供商02.mp4 36.37M<br> 11。 Test.mp4 10.78M<br> 12。 部门服务使用者。mp471.17M<br> 13。 什么是Eureka.mp4 46.86M<br> 14。 设立Eureka Server服务注册中心。 mp4 26.53M<br> 15。 将部门注册到Eureka.mp4 35.81M<br> 16。 主机映射名称Modify.mp4 26.71M<br> 17。 解决了插件禁用问题.mp4 9.18M<br> 18。 主机IP地址信息提示符。mp417.24M<br> 19.info内容构建。mp441.36M<br> 20。 自我保护机制。mp445.11M<br> 21。 Eureka群集配置.mp4 76.37M<br> 22.Eureka和Zookeeper比较。mp482.05M<br> 23.Ribbon概念和初步配置。mp493.37M<br> 24.Ribbon负载均衡.mp4 86.77M<br> 25 .Ribbon核心组件IRule随机算法.mp4 81.62M

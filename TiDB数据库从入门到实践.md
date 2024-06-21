@@ -1,0 +1,5 @@
+TiDB数据库从入门到实践
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+——/付费资源/IT资源区/99-其他平台会员/005-黑马程序员全站/hm0011 – TiDB数据库从入门到实践/<br> ├──01-课程介绍.mp4 4.95M<br> ├──02-学习目标.avi 920.50kb<br> ├──03-数据库技术发展史.avi 5.71M<br> ├──04-从MySQL到TiDB.avi 14.54M<br> ├──05-TiDB概述.avi 7.84M<br> ├──06-TiDB扩展知识-SQL-NoSQL-NewSQL-OLTP-OLAP.avi 16.45M<br> ├──07-TiDB整体架构.avi 17.68M<br> ├──08-TiDB核心特性.avi 24.83M<br> ├──10-TiDB安装部署方式选择.avi 14.88M<br> ├──11-TiDB安装部署-Local单机版.avi 22.77M<br> ├──12-TiDB安装部署-Docker集群版.avi 23.08M<br> ├──13-其他依赖软件安装介绍.avi 26.67M<br> ├──14-TiDB-SQL操作.avi 25.10M<br> ├──15-TiDB-读取历史数据.avi 11.48M<br> ├──16-TiDB-整合Spark-TiSpark.avi 17.06M<br> ├──17-TiDB数据迁移-TiDB-Lightning-1.avi 23.26M<br> ├──18-TiDB数据迁移-TiDB-Lightning-2.avi 18.19M<br> ├──19-TiDB技术内幕-存储.avi 32.90M<br> ├──20-TiDB技术内幕-计算.avi 42.79M<br> ├──21-TiDB技术内幕-调度.avi 33.93M<br> ├──22-TiDB源码阅读步骤.avi 26.19M<br> └──23-TiDB大厂实践介绍.mp4 10.48M

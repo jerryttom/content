@@ -1,0 +1,5 @@
+Python高级运维开发实战-第6期(全套)-老男孩
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+┣━boy007-Python高级运维开发实战-第6期(全套)-老男孩<br> ┣━L05-oldboy-python-lesson05.zip<br> ┣━L06-oldboy-python-lesson06.zip<br> ┣━L03-oldboy-python-lesson03.zip<br> ┣━L09-oldboy-python-lesson09.zip<br> ┣━L01-oldboy-python-lesson01.zip<br> ┣━L17-oldboy-python-lesson17.zip<br> ┣━L12-oldboy-python-lesson12.zip<br> ┣━L13-oldboy-python-lesson13.zip<br> ┣━L04-oldboy-python-lesson04.zip<br> ┣━L16-oldboy-python-lesson16.zip<br> ┣━L19-oldboy-python-lesson19-end.zip<br> ┣━L10-oldboy-python-lesson10.zip<br> ┣━L15-oldboy-python-lesson15.zip<br> ┣━L11-oldboy-python-lesson11.zip<br> ┣━L02-oldboy-python-lesson02.zip<br> ┣━更多精品教程.html<br> ┣━L07-oldboy-python-lesson07.zip<br> ┣━L18-oldboy-python-lesson18.zip<br> ┣━L14-oldboy-python-lesson14.zip<br> ┣━L08-oldboy-python-lesson08.zip

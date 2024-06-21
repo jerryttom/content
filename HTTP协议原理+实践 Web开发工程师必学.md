@@ -1,0 +1,5 @@
+HTTP协议原理+实践 Web开发工程师必学
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+┣━mksz225 – HTTP协议原理+实践 Web开发工程师必学<br> ┣━第3章 HTTP各种特性总览<br> ┣━3-10 CSP[3].mp4<br> ┣━3-3 CORS跨域限制以及预请求验证[3].mp4<br> ┣━3-2 CORS跨域请求的限制与解决[3].mp4<br> ┣━3-6 cookie和session[3].mp4<br> ┣━3-7 HTTP长连接[3].mp4<br> ┣━3-8 数据协商[3].mp4<br> ┣━3-5 缓存验证Last-Modified和Etag的使用[3].mp4<br> ┣━3-9 Redirect[3].mp4<br> ┣━3-4 缓存头Cache-Control的含义和使用[3].mp4<br> ┣━3-1 认识HTTP客户端[3].mp4<br> ┣━第2章 HTTP协议基础及发展历史<br> ┣━2-3 HTTP的三次握手[3].mp4<br> ┣━2-2 HTTP协议的发展历史[3].mp4<br> ┣━2-6 创建一个最简单的web服务[3].mp4<br> ┣━2-5 HTTP报文格式[3].mp4<br> ┣━2-4 URI-URL和URN[3].mp4<br> ┣━2-1 5层网络模型介绍[3].mp4<br> ┣━第4章 Nginx代理以及面向未来的HTTP<br> ┣━4-1 Nginx安装和基础代理配置[3].mp4<br> ┣━4-4 使用Nginx部署HTTP服务[3].mp4<br> ┣━4-3 HTTPS解析[3].mp4<br> ┣━4-5 HTTP2的优势和Nginx配置HTTP2的简单使用[3].mp4<br> ┣━4-2 Nginx代理配置和代理缓存的用处[3].mp4<br> ┣━第5章 课程总结<br> ┣━5-1 课程总结[3].mp4<br> ┣━第1章 课程导学<br> ┣━1-2 内容介绍[3].mp4<br> ┣━1-1 导学[3].mp4<br> ┣━资料<br> ┣━http.7z

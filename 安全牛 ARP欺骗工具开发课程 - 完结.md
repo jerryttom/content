@@ -1,0 +1,5 @@
+安全牛 ARP欺骗工具开发课程 | 完结
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──ARP工具<br> | ├──课时13不利用第三方库手动解协议包.mp4 54.05M<br> | ├──课时14断网工具.mp4 61.45M<br> | ├──课时15扫描存活主机工具.mp4 58.99M<br> | ├──课时16ARP劫持原理.mp4 16.60M<br> | ├──课时17 ARP劫持流量工具.mp4 38.67M<br> | ├──课时18认识TCP协议中的checksum.mp4 24.72M<br> | ├──课时19伪造流量包中的checksum.mp4 33.01M<br> | ├──课时20SYN扫描存活主机工具.mp4 204.54M<br> | ├──课时21ARP的HTTP劫持工具.mp4 37.15M<br> | └──课时22ARP的DNS劫持工具.mp4 51.38M<br> ├──ARP攻击<br> | ├──课时2工具 Ettercap与arpspoof介绍.mp4 33.61M<br> | ├──课时3ARP演示.mp4 39.05M<br> | └──课时4ARP在实际中的应用与防护.mp4 7.58M<br> ├──Python基础<br> | ├──课时10python 变量.mp4 17.54M<br> | ├──课时11课程中使用到的python库讲解.mp4 35.16M<br> | ├──课时12python函数与公共包开发.mp4 82.19M<br> | └──课时9python 语法.mp4 6.80M<br> ├──协议基础<br> | ├──课时5认识ARP协议.mp4 24.15M<br> | ├──课时6认识TCP协议与UDP协议.mp4 26.02M<br> | ├──课时7TCP的三次握手与四次挥手.mp4 45.99M<br> | └──课时8利用wireshark查看各类协议.mp4 21.43M<br> ├──课程资料.rar 742.08M<br> └──课时1课程介绍.mp4 14.83M

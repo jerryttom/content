@@ -1,0 +1,5 @@
+Elastic-Job分布式任务调度-服务中间件完整资料
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+01.Elastic-Job distribution Introduction 任务计划课程。mp4[17M]<br> 02。 概述-什么是任务计划。 avi [26M]<br> 03。 概述-什么是任务调度-代码执行和Cron表达式。 avi [59.1M]<br> 04。 概述-什么是分布式任务计划。 avi [52.5M]<br> 05。 弹性作业环境设置快速入门。 avi [7.8M]<br> 06。 Elastic-Job代码实现快速入门.avi [61.7M]<br> 07.Elastic-Job快速入门-test.avi [27.9M]<br> 08.Elastic-Job工作原理-整体体系结构.avi [26.6] M]<br> 09。弹性-工作原理-动物园管理员的两个角色。 avi [41.9M]<br> 10。 SpringBoot开发-分布式任务-入口程序集成SpringBoot-开发。 avi [46.9M]<br> 11。 SpringBoot分布式任务的开发-Starter程序集成了SpringBoot-test.avi [26.5M]<br> 12。 SpringBoot开发了分布式任务的概念，即工作碎片和碎片。 avi [20.3M]<br> 13. SpringBoot开发了分布式任务-工作划分Slice-Code Implementation.avi [46.1M]<br> 14。 SpringBoot开发分布式任务-Job Sharding-Test.avi [49.7M]<br> 15.SpringBoot开发分布式任务-Job Sharding-Job配置说明.avi [26.6M]<br> 16.SpringBoot开发分布式任务-DataFlow类型任务 .avi [52.6M]<br> 17.Elastic-Job操作和维护知识.avi [62.6M]<br> 18.Elastic-Joe课程摘要.mp4 [34.6M]

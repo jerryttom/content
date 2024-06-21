@@ -1,0 +1,5 @@
+反爬虫AST混淆JavaScript与还原实战,反爬虫,JavaScript
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+〖课程目录〗:<br> 22.types.反爬虫AST混淆JavaScript与还原实战.mp4<br> 27.scope详解(作用域)-反爬虫AST混淆JavaScript与还原实战.mp4<br> 46.实现流程平坦化混淆1-反爬虫AST混淆JavaScript与还原实战.mp4<br> 0.课程介绍-反爬虫AST混淆JavaScript与还原实战.mp4<br> 9.数组乱序反爬虫AST混淆JavaScript与还原实战.mp4<br> 29.scope详解(referencePaths与constantViolatins)-反爬虫AST混淆]avaScript与还原实战.mp4<br> 51.还原代码中的常量反爬虫AST混淆JavaScript与还原实战.mp4<br> 25.Path对象详解(父级Path)-反爬虫AST混淆JavaScript与还原实战.mp4<br> 34.JS标准内置对象的处理反爬虫AST混淆JavaScript与还原实战.mp4<br> 8.数组混淆-反爬虫AST混淆JavaScript与还原实战.mp4<br> 26.Path对象详解(同级Path)-反爬虫AST混淆lavaScript与还原实战.mp4<br> 55.还原流程平坦化-反爬虫AST混淆JavaScript与还原实战,mp4<br> 19.代码的基本结构-反爬虫AST混淆JavaScript与还原实战.mp4<br> 5.字符串ASCII码混淆-反爬虫AST混淆JavaScript与还原实战.mp4<br> 31. .scope详解(标识符重命名)-反爬虫AST混淆JavaScript与还原实战.mp4

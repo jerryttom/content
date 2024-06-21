@@ -1,0 +1,5 @@
+惊呆小伙伴的全套EXCEL函数技能
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──说明<br> | ├──2.jpg 85.56kb<br> | ├──3.jpg 94.47kb<br> | ├──4.jpg 87.23kb<br> | ├──5.jpg 150.73kb<br> | └──6.jpg 117.51kb<br> ├──1314_353_279.jpg 68.54kb<br> ├──FIND函数及大小写….mp4 40.17M<br> ├──IF AND OR入….mp4 42.12M<br> ├──IF多层嵌套 对比L….mp4 29.73M<br> ├──index matc….mp4 44.37M<br> ├──index math….mp4 39.93M<br> ├──IS函数家族介绍.mp4 48.74M<br> ├──match vloo….mp4 29.60M<br> ├──subtotal唯一….mp4 43.58M<br> ├──Text等函数实现文….mp4 48.42M<br> ├──vlookup精确匹….mp4 52.76M<br> ├──函数-相对绝对混合引….mp4 47.79M<br> ├──函数常用错误和引用错….mp4 32.58M<br> ├──截取函数家族应用.mp4 33.73M<br> ├──课程列表.png 22.99kb<br> ├──免费试看.mp4 12.42M<br> ├──奇异的sumprod….mp4 38.08M<br> ├──深度解析vlooku….mp4 49.78M<br> ├──数据智能选择输入.mp4 29.09M<br> ├──条件格式加函数实现智….mp4 43.66M<br> ├──条件函数计数应用案例.mp4 42.48M<br> ├──条件求和sumifs….mp4 52.70M<br> ├──隐藏函数算工龄休假.mp4 40.04M<br> └──有关日期格式处理的函….mp4 34.04M

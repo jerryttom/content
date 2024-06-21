@@ -1,0 +1,5 @@
+MY课堂java架构师教程十期2022完结
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+赠送-第十期-SpringCloudAlibaba<br> ├──01.springcloudalibaba服务治理基本概念<br> | ├──剪辑之后<br> | └──课程目录 .txt 0.18kb<br> ├──02.springcloudalibabaNacos服务注册中心<br> | └──视频<br> ├──03.springcloudalibaba本地负载均衡器<br> | └──视频<br> ├──04.springcloudalibabanacos集群部署方案<br> | ├──01.第一节-Nacos如何实现集群 .mp4 135.96M<br> | ├──02.第二节-Nacos构建集群方式注意事项 .mp4 150.08M<br> | ├──03.第三节-正确方式构建Nacos集群 .mp4 99.83M<br> | ├──04.第四节-Nacos客户端随机注册算法 .mp4 126.56M<br> | └──05.第五节-Nacos客户端实现服务集群注册原理 .mp4 64.85M<br> └──springcloudalibaba资料和代码<br> | ├──01.springcloudalibaba服务治理基本概念 .zip 101.18kb<br> | ├──02.springcloudalibabaNacos服务注册中心 .zip 112.25M<br> | ├──03.springcloudalibaba本地负载均衡器 .zip 243.54kb<br> | ├──04.springcloudalibabanacos集群部署方案 .zip 321.07M<br> | └──springcloudalibaba文档 .zip 897.66kb

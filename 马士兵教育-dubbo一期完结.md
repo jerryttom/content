@@ -1,0 +1,5 @@
+马士兵教育-dubbo一期【完结】
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+msb054-马士兵教育-dubbo一期【完结】<br> 01 dubbo demo、角色、 RPC、原理 、RMI-.mp4<br> 02 项目微服务拆分 注册中心、dubbo admin-.mp4<br> 04 dubbo下的微信公众号项目 二-.mp4<br> 03 dubbo下的微信公众号项目 一-.mp4<br> 05 dubbo核心配置 聚合项目构建-.mp4<br> dubbo一期<br> 02 dubbo（二）<br> 4 课后答疑-.mp4<br> 1 原系统微服务改造-.mp4<br> 2 传统项目拆分微服务概述-.mp4<br> 3 传统项目拆分微服务实操-.mp4<br> 01 dubbo（一）<br> 2 案例演示-.mp4<br> 4 搭建dubbo骨架-.mp4<br> 3 dubbo介绍-.mp4<br> 1 架构模型-.mp4<br> 05 dubbo（五）<br> 8 Maven聚合项目改造-.mp4<br> 10 消息幂等-.mp4<br> 3 手动写文档导出实体类和方法-.mp4<br> 7 maven配置-.mp4<br> 2 swagger介绍和使用-.mp4<br> 5 微信JS-SDK说明文档-.mp4<br> 4 项目加注解生成文档-.mp4<br> 6 传统项目构建概述-.mp4<br> 1 restful风格的API-.mp4<br> 9 微服务治理-.mp4<br> 04 dubbo（四）<br> 1 微信登录-.mp4<br> 5 微信支付-.mp4<br> 3 模板消息-.mp4<br> 4 生成带参数的二维码-.mp4<br> 6 课前概述与回顾-.mp4<br> 2 微信网页授权-.mp4<br> 03 dubbo（三）<br> 2 微信API-.mp4<br> 4 自定义菜单-.mp4<br> 3 新增接口权限-.mp4<br> 1 新增微信接口微服务-.mp4

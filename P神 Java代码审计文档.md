@@ -1,0 +1,5 @@
+P神 Java代码审计文档
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──Java安全漫谈 – 01.反射篇(1).pdf 233.16kb<br> ├──Java安全漫谈 – 02.反射篇(2).pdf 446.53kb<br> ├──Java安全漫谈 – 03.反射篇(3).pdf 434.54kb<br> ├──Java安全漫谈 – 04.RMI篇(1).pdf 416.78kb<br> ├──Java安全漫谈 – 05.RMI篇(2).pdf 531.03kb<br> ├──Java安全漫谈 – 06.RMI篇(3).pdf 632.57kb<br> ├──Java安全漫谈 – 07.反序列化篇(1).pdf 503.54kb<br> ├──Java安全漫谈 – 08.反序列化篇(2).pdf 382.11kb<br> ├──Java安全漫谈 – 09.反序列化篇(3).pdf 687.93kb<br> ├──Java安全漫谈 – 10.用TransformedMap编写真正的POC.pdf 1.57M<br> ├──Java安全漫谈 – 11.反序列化篇(5).pdf 950.95kb<br> ├──Java安全漫谈 – 12.反序列化篇(6).pdf 788.01kb<br> ├──Java安全漫谈 – 13.Java中动态加载字节码的那些方法.pdf 883.55kb<br> ├──Java安全漫谈 – 14.为什么需要CommonsCollections3.pdf 697.69kb<br> ├──Java安全漫谈 – 15.TemplatesImpl在Shiro中的利用.pdf 1.26M<br> ├──Java安全漫谈 – 16.commons-collections4与漏洞修复.pdf 1.54M<br> ├──Java安全漫谈 – 17.CommonsBeanutils与无commons-collections的Shiro反序列化利用.pdf 1.53M<br> ├──Java安全漫谈 – 18.原生反序列化利用链JDK7u21.pdf 947.48kb<br> ├──Java安全漫谈 – 19.Java反序列化协议构造与分析.pdf 795.63kb<br> └──长亭Java安全总结.rar 119.17M

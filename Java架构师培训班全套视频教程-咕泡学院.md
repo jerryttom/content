@@ -1,0 +1,5 @@
+Java架构师培训班全套视频教程-咕泡学院
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+┣━gp001-Java架构师培训班全套视频教程-咕泡学院<br> ┣━tools.zip<br> ┣━小马哥分享书籍.zip<br> ┣━解压密码：oelYcRRkClNUJeuw<br> ┣━01.工程化专题.zip<br> ┣━03.分布式专题<br> ┣━7.zip<br> ┣━12.zip<br> ┣━3.zip<br> ┣━13.zip<br> ┣━10.zip<br> ┣━5.zip<br> ┣━9.zip<br> ┣━14.zip<br> ┣━更多精品教程.html<br> ┣━11.zip<br> ┣━9.1分布式消息中间件(下)-修复.mp4<br> ┣━6.zip<br> ┣━2.zip<br> ┣━1.zip<br> ┣━8.zip<br> ┣━4.zip<br> ┣━00.学习计划.zip<br> ┣━09.项目总结-Mic.zip<br> ┣━05.性能优化.zip<br> ┣━10.学员分享.zip<br> ┣━08.Python机器学习.zip<br> ┣━IntelliJ IDEA（此文件夹视频为赠送视频）.zip<br> ┣━07.BAT面试课程.zip<br> ┣━04.微服务架构<br> ┣━12.zip<br> ┣━16.zip<br> ┣━6.zip<br> ┣━5.zip<br> ┣━更多精品教程.html<br> ┣━3.zip<br> ┣━15.zip<br> ┣━9.zip<br> ┣━课件资料.zip<br> ┣━10.zip<br> ┣━7.zip<br> ┣━11.zip<br> ┣━14.zip<br> ┣━8.zip<br> ┣━13.zip<br> ┣━4.zip<br> ┣━17.zip<br> ┣━2.zip<br> ┣━1.zip<br> ┣━06.大数据前篇之分布式搜索引擎规则.zip<br> ┣━02.源码分析专题.zip<br> ┣━课件源码（所有）.zip<br> ┣━文档.zip

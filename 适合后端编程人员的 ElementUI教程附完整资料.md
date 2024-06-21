@@ -1,0 +1,5 @@
+适合后端编程人员的 ElementUI教程附完整资料
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+01 1.elementui的引言.mp4<br> 02 2.elementui的基本安装和第壹个demo.mp4<br> 03 3.按钮组件的使用.mp4<br> 04 4.文字链接组件的使用.mp4<br> 05 5.Layout组件的使用.mp4<br> 06 6.container容器布局组件的使用.mp4<br> 07 7.radio单选按钮组件的使用.mp4<br> 08 8.checkbox组件的使用.mp4<br> 09 9.input组件的使用.mp4<br> 10 10.select组件的使用.mp4<br> 11 11.switch组件的使用.mp4<br> 12 12.DatePicker组件的使用.mp4<br> 13 13.Upload组件的使用.mp4<br> 14 14.Form表单组件的使用.mp4<br> 15 15.alert组件的使用.mp4<br> 16 16.message消息提示组件的使用.mp4<br> 17 17.table组件的使用(壹).mp4<br> 18 18.table组件的使用(二).mp4<br> 19 19.table组件的使用(三).mp4<br> 20 20.element小项目案例(壹).mp4<br> 21 21.elementui小项目案例(二).mp4<br> 22 22.elementui小项目案例(三).mp4<br> 23 23.elementui小项目案例(四).mp4<br> 24 24.elementui小项目案例(五).mp4<br> 25 25.elementui小项目案例(六).mp4<br> 26 26.elementui小项目案例(七).mp4<br> 27 27.Pagination分页组件的使用.mp4<br> 28 28.elementui项目完结以及日期组件问题解决.mp4<br> elementui资料.rar

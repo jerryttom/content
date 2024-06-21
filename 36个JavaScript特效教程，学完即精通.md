@@ -1,0 +1,5 @@
+36个JavaScript特效教程，学完即精通
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+01简版计算器（js版）＃学习猿land.mp4<br> 02 Web日历开发过程（js版）.mp4<br> 03编写正则表达式的想法（js版）.mp4<br> 04通过Cookie用户 定义的模板（bom版本）.mp4<br> 05网页的弹出广告空间（bom版本）.mp4<br> 06 DOM动画该区域的弹球（dom版本）.mp4<br> 07 动态创建表（dom版本）。mp4<br> 08用鼠标移动的图片（dom版本）。mp4<br> 09固定导航栏（dom版本）.mp4<br> 10角色扮演游戏模型（dom 版本）.mp4<br> 11模拟鼠标拖动事件（dom版本）.mp4<br> 12权限选择表单（dom版本）.mp4<br> 13完整验证案例（dom版本）.mp4<br> 14三个 级别的链接菜单（dom版本）.mp4<br> 15伸缩菜单盒（dom版本）.mp4<br> 16实现可编辑形式（dom版本）.mp4<br> 17滚动网页中的图片（dom版本）。 mp4<br> 18制表符实例（dom版本）.mp4<br> 19在屏幕上放置广告（dom版本）.mp4<br> 20自定义 DOM导航功能仅获取元素节点（dom版本）。mp4<br> 21定制方法以按类名获取元素集合（dom版本）。mp4<br> 22定制扩展DOM方法以获取所有同胞（dom版本） .mp4<br> 23滚动位置和固定导航栏的情况（jQuery版本）。.mp4<br> 24屏幕弹球位置操作（jQuery版本）.mp4<br> 25图片突出显示（jQuery版本）.mp4<br> 26下拉菜单示例（jQuery版本）.mp4<br> 27动态创建表格案例（jQuery版本）.mp4<br> 28复选框选择和取消选择案例（jQuery版本）.mp4<br> 29可编辑表格（jQuery） 版本）.mp4<br> 30轮播图实现（jQuery版本）.mp4<br> 31字幕盒（jQuery版本）.mp4<br> 32淘宝精品展示柜（jQuery版本）.mp4<br> 33网关开关灯 效果（jQuery版本）.mp4<br> 34 Tab大小写（jQuery版本）.mp4<br> 35选择器应用程序（jQuery版本）.mp4<br> 36 Ajax版本chat room.mp4

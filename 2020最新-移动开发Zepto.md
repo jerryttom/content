@@ -1,0 +1,5 @@
+2020最新-移动开发Zepto
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──5。 课程笔记<br> | | ├──1。 课程notes.txt 5.64kb<br> | | └──AMap_adcode_citycode.xlsx103.50kb<br> | ├──6。 作业<br> | | ├──1。 书面测试问题.txt 0.77kb<br> | | └──2。 下层extension.txt 0.15kb<br> | ├──7。 考试题<br> | | ├──1.Day test.txt 0.77kb<br> | | ├──2。 本章通用test.txt 0.77kb<br> | | └──3。 前四章通用test.txt 2.02kb<br> | └──8。 课程视频<br> | | ├──1.zepto-ajax获取数据1.mp4 61.31M<br> | | ├──2.zepto-ajax获取数据2.mp4 137.31M<br> | | ├──3.zepto-get＆Post.mp4 62.23M<br> | | ├──4.zepto处理jsonp data.mp4 179.29M<br> | | ├──5.zepto-animation1.mp4 71.40M<br> | | ├──6.zepto-animation2.mp4 134.45M<br> | | ├──7.zepto-touch模组1.mp4 77.53M<br> | | └──7.zepto-touch模块2.mp4 19.73M<br> └──5。 工程案例<br> | └──3。 演示案例<br> | | ├──工程案例-微博热点搜索<br> | | ├──项目案例-云图天气预报<br> | | ├──工程案例-微博热搜.zip 593.55kb<br> | | └──ProjectCase-Cloud Map Weather Forecast.zip 28.23kb

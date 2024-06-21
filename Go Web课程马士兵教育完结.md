@@ -1,0 +1,5 @@
+Go Web课程【马士兵教育】【完结】
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+msb062-Go Web课程【马士兵教育】【完结】<br> 03 前奏-Web框架<br> 3Gin初体验-.mp4<br> 4Iris初体验-.mp4<br> 1主流Web框架介绍-.mp4<br> 5总结-.mp4<br> 2Beego初体验-.mp4<br> 06 Gin框架基础<br> 5加载静态文件-.mp4<br> 7路由分组-.mp4<br> 3请求路由-.mp4<br> 1创建工程-.mp4<br> 6泛绑定-.mp4<br> 2代码下载-.mp4<br> 4多种请求类型-.mp4<br> 01 前奏-Go Module<br> 4命令行创建补充-.mp4<br> 1Go Module介绍-.mp4<br> 2如何开启Go Module-.mp4<br> 5Go Module基本操作-.mp4<br> 3命令行方式创建Go Module项目-.mp4<br> 04 Gin框架入门<br> 第一个Gin项目-.mp4<br> 07 参数获取<br> 3Get QueryArray和QueryMap-.mp4<br> 4Post Form-.mp4<br> 5PostFormMap和PostFormArray-.mp4<br> 2Querystring parameters-.mp4<br> 6query与post form-.mp4<br> 1Parameters in path-.mp4<br> 05 RESETFul API设计指南<br> RESETFul API设计指南-.mp4<br> 02 前奏-Goland配置<br> 1使用Goland Go Module-.mp4<br> 2Goland开启File Watchers-.mp4<br> 13 操作Redis<br> 02 Redis-go-redis基本使用-.mp4<br> 01 使用go-redis链接-.mp4<br> 10 中间件<br> 07 Abort函数-.mp4<br> 05 Next函数-.mp4<br> 06 Next补充-.mp4<br> 08 自定义中间件-.mp4<br> 04 中间件的使用-.mp4<br> 01 什么是中间件-.mp4

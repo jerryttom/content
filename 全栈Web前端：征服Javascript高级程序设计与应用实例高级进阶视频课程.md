@@ -1,0 +1,5 @@
+全栈Web前端：征服Javascript高级程序设计与应用实例高级进阶视频课程
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+31-Javascript中Jquery的深入剖析和表头排序-31<br> 29-物体的圆周运动和光晕效果的结合案例-29<br> 05-Javascript字符串和数学函数和万年历<br> 24-实现进度圆环-24<br> 03-Javascript的逻辑判断和循环-03<br> 20-Javascript中的放大镜和苹果菜单已经层交换-20<br> 02-Javascript的变量，函数和数组-02<br> 09-javascript-表单验证-08<br> 36-万年历插件js版本和jquery组件版本的封装-keke老师<br> 19-Javascript中的树和iframe的解说-19<br> Sublime_Text_2.0.2_Setup.exe<br> 04-Javascript的字符串和日期的内置函数-KeKe老师-04<br> 32-Jquery中的动画剖析-32<br> 33-Javascript中关于对象和原型链解说和字体样式-33<br> 12-Javascript中的dom第二课和CSS3的backface学习-12<br> 11-javascript中对象和dom操作-11<br> 13-Javascript的dom操作样式的时区和时钟-13<br> 22-音乐播放器的内部实现原理之拖拽播放和拖拽音量-22<br> eval.html<br> Javascript笔记.doc<br> 08-Javascript中的this的理解和call和apply<br> 17-Javascript中的Ajax和json数组-17<br> 27-CSS3和Jquery选择器的关系-keke老师<br> 28-Javascript的物体的圆周运动-28<br> 潭z学院css格式化工具.html<br> 23-音乐播放器之歌词同步和jquery初识-23<br> 34-JQuery高级事件委托-34<br> 10-javascript中的3dbox-09-<br> 30-Jquery的深入认识和选择器-keke老师<br> 18-Javascript瀑布流的实现和桌面应用resize-18<br> 06-Javascript中的函数认识-06<br> 14-Javascript实现动画小球和代码实时预览和编辑-14

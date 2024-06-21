@@ -1,0 +1,5 @@
+尚硅谷大数据技术之Dinky
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──视频<br> | ├──01_Dinky_课程介绍.mp4 16.89M<br> | ├──02_Dinky_概述.mp4 36.56M<br> | ├──03_Dinky_安装部署_初始化数据库&amp;修改配置文件.mp4 81.88M<br> | ├──04_Dinky_安装部署_加载依赖&amp;上传jar包.mp4 49.71M<br> | ├──05_Dinky_安装部署_启动&amp;Flink配置.mp4 17.01M<br> | ├──06_Dinky_创建集群_Flink实例管理.mp4 37.23M<br> | ├──07_Dinky_创建集群_集群配置管理.mp4 12.96M<br> | ├──08_Dinky_快速上手_简单案例.mp4 92.99M<br> | ├──09_Dinky_持久化的Catalog.mp4 51.42M<br> | ├──10_Dinky_定义变量_sql中定义.mp4 27.82M<br> | ├──11_Dinky_定义变量_Env方式&amp;查看变量.mp4 45.39M<br> | ├──12_Dinky_定义变量_Flink连接配置变量.mp4 42.65M<br> | ├──13_Dinky_add jar添加jar包.mp4 99.71M<br> | ├──14_Dinky_CDC整库同步_使用介绍.mp4 46.08M<br> | ├──15_Dinky_CDC整库同步到Kafka_环境准备.mp4 70.90M<br> | ├──16_Dinky_CDC整库同步_写入一个Topic演示.mp4 33.35M<br> | ├──17_Dinky_CDC整库同步_写入对应Topic演示.mp4 34.01M<br> | ├──18_Dinky_UDF开发&amp;版本兼容性.mp4 42.52M<br> | ├──19_Dinky_自定义函数_兼容高版本Flink.mp4 47.72M<br> | ├──20_Dinky_用户管理.mp4 53.10M<br> | └──21_Dinky_报警管理.mp4 41.94M<br> ├──笔记.zip 6.47M<br> └──资料.zip 263.65M

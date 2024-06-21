@@ -1,0 +1,5 @@
+Go Web课程【马士兵教育】
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+┣━70 Go Web课程【马士兵教育】<br> ┣━0 Go Web阶段<br> ┣━03 前奏-Web框架<br> ┣━1 主流Web框架介绍.vep<br> ┣━3 Gin初体验.vep<br> ┣━5 总结.vep<br> ┣━4 Iris初体验.vep<br> ┣━2 Beego初体验.vep<br> ┣━07 参数获取<br> ┣━2 Querystring parameters.vep<br> ┣━5 PostFormMap和PostFormArray.vep<br> ┣━1 Parameters in path.vep<br> ┣━4 Post Form.vep<br> ┣━6 query与post form.vep<br> ┣━3 Get QueryArray和QueryMap.vep<br> ┣━04 Gin框架入门<br> ┣━1 第一个Gin项目.vep<br> ┣━必读.txt<br> ┣━05 RESETFul API设计指南<br> ┣━1 RESETFul API设计指南.vep<br> ┣━01 前奏-Go Module<br> ┣━4 命令行创建补充.vep<br> ┣━3 命令行方式创建Go Module项目.vep<br> ┣━5 Go Module基本操作.vep<br> ┣━2 如何开启Go Module.vep<br> ┣━1 Go Module介绍.vep<br> ┣━06 Gin框架基础<br> ┣━4 多种请求类型.vep<br> ┣━7 路由分组.vep<br> ┣━6 泛绑定.vep<br> ┣━5 加载静态文件.vep<br> ┣━1 创建工程.vep<br> ┣━3 请求路由.vep<br> ┣━2 代码下载.vep<br> ┣━02 前奏-Goland配置<br> ┣━2 Goland开启File Watchers.vep<br> ┣━1 使用Goland Go Module.vep

@@ -1,0 +1,5 @@
+云计算之 Proxmox VE云平台实战教程（完结篇）
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+<span style="font-size: large;"><span style="font-family: Tahoma;"><span style="color: #0000ff;"><strong>〖课程目录〗:</strong></span></span></span><br> <span style="font-family: &amp;quot;">&nbsp;&nbsp;</span><br> 1-1 proxmox VE云平台介绍(014000-1301140).mp4<br> 1-2 课程实验环境规划(014000-455320).mp4<br> 1-3 proxmox ve云平台安装(014000-1301640).mp4<br> 2-1 proxmox云平台初始化操作(014000-2163820).mp4<br> 2-2 proxmox 集群网络规划设计(014000-1324000).mp4<br> 3-1 proxmox ve集群部署实战(014000-860640).mp4<br> 4-1 ceph集群部署实战(014000-1414113).mp4<br> 4-2 ceph mon添加(014000-403820).mp4<br> 4-3 ceph osd 创建(014000-771820).mp4<br> 4-4 ceph fs创建(014000-840140).mp4<br> 5-1 通过云平台创建kvm(014000-1300640).mp4<br> 5-2 云平台kvm虚拟机秒级克隆(014000-1434140).mp4<br> 5-3 云平台下kvm 虚拟机快照秒级恢复(014000-1240500).mp4<br> 5-4 云平台下kvm 虚拟机秒级迁移(014000-771000).mp4<br> 6-1 proxmox ve kvm 高可用实现(014000-1644640).mp4<br> 云计算之Proxmox云平台实战pdf.pdf

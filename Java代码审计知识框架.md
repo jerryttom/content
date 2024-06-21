@@ -1,0 +1,5 @@
+Java代码审计知识框架
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──1 Java代码审计知识框架介绍.mp4 21.00M<br> ├──10 JavaAgent技术与RASP（上）.mp4 58.91M<br> ├──11 JavaAgent技术与RASP（下）.mp4 13.18M<br> ├──12 Java字节码增强技术.mp4 22.34M<br> ├──13 JVM技术.mp4 9.63M<br> ├──14 Java反序列化漏洞.mp4 25.88M<br> ├──15 软件供应链安全基本概念.mp4 25.12M<br> ├──16 软件供应链安全-计划阶段Plan.mp4 8.86M<br> ├──17 软件供应链安全-编码阶段Create.mp4 23.18M<br> ├──18 软件供应链安全-测试阶段Verify.mp4 7.13M<br> ├──19 软件供应链安全-预发布阶段Preproduction.mp4 1.66M<br> ├──2 Java代码审计学习心得体会.mp4 15.91M<br> ├──20 软件供应链安全-发布阶段Release.mp4 6.18M<br> ├──21 软件供应链安全-检测阶段Detect.mp4 5.34M<br> ├──22 软件供应链安全-响应阶段Respond.mp4 6.79M<br> ├──23 软件供应链安全-预测阶段与适应阶段.mp4 3.76M<br> ├──24 软件供应链安全-总结.mp4 5.13M<br> ├──3 Java基础需要学什么？.mp4 19.77M<br> ├──4 Java语言特性.mp4 10.35M<br> ├──5 Java代码审计是否需要学习设计模式？.mp4 13.30M<br> ├──6 OWASPTOP10漏洞.mp4 2.33M<br> ├──7 Java有哪些框架？有哪些漏洞？.mp4 20.96M<br> ├──8 Java代码审计工具（上）.mp4 6.67M<br> ├──9 Java代码审计工具（下）.mp4 11.24M<br> └──课程配套资料.zip 924.93kb

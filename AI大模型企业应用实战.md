@@ -1,0 +1,5 @@
+AI大模型企业应用实战
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──01-第一个大模型程序：HelloGPT.mp4 70.79M<br> ├──02｜提示词技巧：获得代码友好的回复.mp4 65.50M<br> ├──03-初识LangChain：你的瑞士军刀.mp4 58.05M<br> ├──04｜保持会话状态：让Chatbot获得记忆.mp4 88.93M<br> ├──05-对话启发式UI：交互方式的新思考.mp4 40.11M<br> ├──06-FunctionCalling：让GPT学会使用工具.mp4 54.50M<br> ├──07｜LangChainAgent：让GPT学会使用工具.mp4 69.54M<br> ├──08｜In-contextlearning：学习解决特定任务.mp4 55.70M<br> ├──09｜ReAct模式：构建自己的AutoGPT.mp4 61.79M<br> ├──10｜文本分片及向量化：让大模型应用企业内部数据.mp4 68.46M<br> ├──11｜LangChainRetrieval：连接大模型和内部文本.mp4 68.64M<br> ├──12｜整合所学：构建多模态Chatbot.mp4 80.64M<br> ├──13｜研发全过程中的应用：硅基工程师诞生.mp4 105.91M<br> ├──14｜代码生成：解决代码生成的依赖性并增强确定性.mp4 75.61M<br> ├──15｜有效利用LLM开发：编写大模型友好的代码.mp4 88.45M<br> ├──16｜云原生部署任务实践：让你成为更好的DevOps工程师.mp4 72.61M<br> ├──17｜HuggingFace与Pre-trainedModel：借助AI社区的力量.mp4 51.78M<br> ├──18｜架构展望：集成大模型的应用参考架构.mp4 40.57M<br> ├──结课测试｜来赴一场满分之约吧！.ts 430.89kb<br> ├──结束语｜道阻且长，行则将至.mp4 7.01M<br> ├──课程介绍.ts 25.68M<br> ├──内容综述.mp4 10.42M<br> └──直播回放｜Semantic-Kernel大模型开发实战.mp4 216.74M

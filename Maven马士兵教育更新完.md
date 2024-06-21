@@ -1,0 +1,5 @@
+Maven【马士兵教育】【更新完】
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+msb033-Maven【马士兵教育】【更新完】<br> 7_仓库优先级问题.vep<br> 8_JDK的配置.vep<br> 18_常见插件_编译器插件-.mp4<br> 15_Maven工程关系_依赖范围-.mp4<br> 21_Maven常见命令-.mp4<br> 20_常见插件_Tomcat插件.vep<br> 13_Maven工程关系_依赖的传递性.vep<br> 14_Maven工程关系_依赖的两个原则_排除依赖-.mp4<br> 17_Maven工程关系_聚合关系.vep<br> 19_常见插件_资源拷贝插件.vep<br> 16_Maven工程关系_继承关系.vep<br> 9_Maven工程类型-.mp4<br> 21_Maven常见命令.vep<br> 9_Maven工程类型_1-.mp4<br> 5_Maven仓库之本地仓库.vep<br> 19_常见插件_资源拷贝插件-.mp4<br> 11_Maven目录结构-.mp4<br> 2_Maven的下载_目录结构_IDEA整合Maven.vep<br> 3_Maven仓库.vep<br> 11_Maven目录结构.vep<br> 20_常见插件_Tomcat插件-.mp4<br> 14_Maven工程关系_依赖的两个原则_排除依赖.vep<br> 1_什么是Maven-.mp4<br> 16_Maven工程关系_继承关系-.mp4<br> 1_什么是Maven.vep<br> 12_Maven工程关系_依赖关系.vep<br> 9_Maven工程类型_1.vep<br> 2_Maven的下载_目录结构_IDEA整合Maven-.mp4<br> 3_Maven仓库-.mp4<br> 8_JDK的配置-.mp4<br> 17_Maven工程关系_聚合关系-.mp4<br> 4_Maven仓库之远程仓库-.mp4<br> 7_仓库优先级问题-.mp4<br> 5_Maven仓库之本地仓库-.mp4<br> 10_在IDEA中创建Maven工程.vep<br> 9_Maven工程类型.vep<br> 4_Maven仓库之远程仓库.vep<br> 10_在IDEA中创建Maven工程-.mp4<br> 6_仓库配置.vep<br> 13_Maven工程关系_依赖的传递性-.mp4<br> 18_常见插件_编译器插件.vep<br> 6_仓库配置-.mp4<br> 12_Maven工程关系_依赖关系-.mp4<br> 15_Maven工程关系_依赖范围.vep

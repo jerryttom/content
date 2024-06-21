@@ -1,0 +1,5 @@
+分布式流处理服务—Apache Kafka【马士兵教育】【更新完】
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+msb038-分布式流处理服务—Apache Kafka【马士兵教育】【更新完】<br> kafka章节4-(Ackes&amp;Retires)02-.mp4<br> Kafka章节2-(Kafka单机配置)02-.mp4<br> kafka章节4-(生产者&amp;消费者)05-.mp4<br> Kafka章节1-(生产者&amp;消费组)04-.mp4<br> Kafka章节1-(分区&amp;日志)03-.mp4<br> Kafka章节2-(Kafka Topic管理)04-.mp4<br> kafka章节4-(offset自动控制)01-.mp4<br> 章节5-（Kafka Flume集成）03-.mp4<br> Kafka章节5-（高水位）01-.mp4<br> Kafka章节5-(kafkaEagle安装)02-.mp4<br> Kafka章节1-(Kafka概述、介绍)01-.mp4<br> Kafka章节3-(序列化&amp;拦截器)04-.mp4<br> Kafka章节5-（SpringBoot集成）04-.mp4<br> Kafka章节1-(顺序写入&amp;ZeroCopy)05-.mp4<br> Kafka章节3-(生产者&amp;消费者)02-.mp4<br> kafka章节4-(幂等写)03-.mp4<br> Kafka章节2-(Kafka集群配置)03-.mp4<br> 新建文档_20210613_132536.docx<br> kafka章节3-(Topic 管理 API)01-.mp4<br> Kafka章节3-(自定义分区)03-.mp4<br> kafka章节4-(生产者事务)04-.mp4<br> Kafka章节1-(架构和概念)02-.mp4<br> Kafka章节2-(Kafka Topic管理)04(1)-.mp4

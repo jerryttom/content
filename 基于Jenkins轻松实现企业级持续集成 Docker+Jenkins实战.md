@@ -1,0 +1,5 @@
+基于Jenkins轻松实现企业级持续集成 Docker+Jenkins实战
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+自动化运维工程师必备利器-基于Jenkins轻松实现企业级持续集成 Docker+Jenkins实战<br> Jenkins是当前很火热的持续集成工具，在熟练使用的情况下可以非常高效率的帮助运维工程师完成繁杂的运维工作，实现企业级运维自动化与无人值守。Jenkins可用于监控持续重复的工作，此课程可以帮同学们完成Jenkins持续集成的基础学习，全局配置与持续集成案例，多实例实战案例学习，插件篇详解与Jenkins自动化部署教学，课程的核心部分仍结合了Docker进行Jenkins的集成部署。<br> 教程目录：<br> ├─1.IT运维传统网站部署的流程.avi<br> ├─10.Jenkins持续集成邮件服务器及报警.avi<br> ├─11.Jenkins多实例配置.avi<br> ├─12.Jenkins整合Ansible批量自动化部署.avi<br> ├─2.互联网主流网站部署的流程.avi<br> ├─3.Jenkins持续集成简介.avi<br> ├─4 Jenkins全局配置.avi<br> ├─4.Jenkins持续集成Maven讲解.avi<br> ├─5.Jkenkins持续集成网站构建实战.avi<br> ├─6.Jenkins持续集成网站构建实战.avi<br> ├─7.Jenkins持续集成自动化部署一.avi<br> ├─8.Jenkins持续集成自动化部署二.avi<br> ├─9.Jenkins持续集成插件实战篇.avi<br> (1)\Docker；目录中文件数:4个<br> ├─1 Docker+Jenkins集成发布环境概要介绍.avi<br> ├─2 Jenkins软件包及组件的安装.avi<br> ├─3 搭建Docker宿主机.avi<br> ├─4 Jenkins实现工程的集群发布.avi<br> (2)\课件；目录中文件数:2个<br> ├─Jenkins Maven SVN Tomcat持续集成实v1战.docx<br> ├─Jenkins Maven SVN Tomcat持续集成实战v2.docx

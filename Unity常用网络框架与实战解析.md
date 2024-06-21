@@ -1,0 +1,5 @@
+Unity常用网络框架与实战解析
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──01_Http协议介绍.mp4 50.03M<br> ├──02_Get和Post请求方式区别.mp4 18.71M<br> ├──03_TCP、IP协议简介.mp4 60.58M<br> ├──04_Socket简单应用.mp4 58.51M<br> ├──05_JSON简介.mp4 52.37M<br> ├──06_XML简介.mp4 89.70M<br> ├──07_Protobuf介绍.mp4 78.20M<br> ├──08_WWW实现图片资源显示以及.mp4 57.06M<br> ├──09_基于WWW的get请求方式的登录.mp4 44.64M<br> ├──10_WWWForm简介和使用.mp4 37.35M<br> ├──11_Protobuf应用示例.mp4 93.38M<br> ├──12_NetWorkView介绍.mp4 34.53M<br> ├──13_基于NetWorkView通讯案例上.mp4 30.24M<br> ├──14_基于NetWorkView通讯案例下.mp4 32.65M<br> ├──15_Photon引擎简介.mp4 24.95M<br> ├──16_Photon引擎的搭建以及错误.mp4 33.75M<br> ├──17_Photon插件在Unity中的使用.mp4 19.83M<br> ├──18_Scut服务器介绍.mp4 29.60M<br> ├──19_配置Scut协议服务器.mp4 30.71M<br> ├──20_利用Scut协议工具搭建自己的.mp4 32.27M<br> ├──21_编写自己的Photon服务器上.mp4 33.46M<br> ├──22_编写自己的Photon服务器下.mp4 30.65M<br> ├──23_深入了解网络通讯框架_Unity.mp4 45.52M<br> ├──24_深入了解网络通讯框架_Unity.mp4 50.03M<br> ├──25_深入了解网络通讯框架_反射下.mp4 18.83M<br> ├──26_深入了解网络通讯框架_特性上.mp4 19.94M<br> ├──27_深入了解网络通讯框架_特性下.mp4 6.61M<br> ├──28_深入了解网络通讯框架_消息.mp4 37.30M<br> ├──29_常用网络框架与实战解析课程总结.mp4 16.93M<br> └──kejian_mXfJAZR.rar 3.04M

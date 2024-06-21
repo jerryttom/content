@@ -1,0 +1,5 @@
+腾讯大牛教你web前后端漏洞分析与防御
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+┣━mksz104 – 腾讯大牛教你web前后端漏洞分析与防御<br> ┣━第6章 前端点击劫持问题<br> ┣━3.wmv<br> ┣━1.wmv<br> ┣━2.wmv<br> ┣━第8章 密码安全<br> ┣━7.wmv<br> ┣━4.wmv<br> ┣━5.wmv<br> ┣━6.wmv<br> ┣━3.wmv<br> ┣━1.wmv<br> ┣━2.wmv<br> ┣━第7章 传输安全<br> ┣━2.wmv<br> ┣━1.wmv<br> ┣━3.wmv<br> ┣━4.wmv<br> ┣━5.wmv<br> ┣━第1章 课程介绍<br> ┣━2.wmv<br> ┣━1.wmv<br> ┣━第5章 前端Cookies问题<br> ┣━2.wmv<br> ┣━1.wmv<br> ┣━3.wmv<br> ┣━4.wmv<br> ┣━第2章 环境搭建<br> ┣━1.wmv<br> ┣━2-6 本节总结-必看.mp4<br> ┣━2.wmv<br> ┣━第3章 前端XSS<br> ┣━1.wmv<br> ┣━6.wmv<br> ┣━3.wmv<br> ┣━8.wmv<br> ┣━2.wmv<br> ┣━5.wmv<br> ┣━7.wmv<br> ┣━4.wmv<br> ┣━第11章 社会工程学和信息泄露<br> ┣━2.wmv<br> ┣━1.wmv<br> ┣━4.wmv<br> ┣━3.wmv<br> ┣━第10章 接入层上传问题<br> ┣━2.wmv<br> ┣━5.wmv<br> ┣━3.wmv<br> ┣━4.wmv<br> ┣━1.wmv<br> ┣━第4章 前端CSRF<br> ┣━3.wmv<br> ┣━5.wmv<br> ┣━7.wmv<br> ┣━4.wmv<br> ┣━2.wmv<br> ┣━6.wmv<br> ┣━1.wmv<br> ┣━源码<br> ┣━使用教程（必看）.png<br> ┣━project.zip<br> ┣━第9章 接入层注入问题<br> ┣━2.wmv<br> ┣━4.wmv<br> ┣━8.wmv<br> ┣━7.wmv<br> ┣━1.wmv<br> ┣━5.wmv<br> ┣━3.wmv<br> ┣━6.wmv<br> ┣━第12章 其他安全问题<br> ┣━2.wmv<br> ┣━1.wmv<br> ┣━第13章 课程总结<br> ┣━2.wmv<br> ┣━1.wmv

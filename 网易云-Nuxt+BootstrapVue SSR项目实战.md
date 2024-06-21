@@ -1,0 +1,5 @@
+网易云-Nuxt+BootstrapVue SSR项目实战
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+├──[1.10]–json-server服务搭建.mp4 82.46M<br> ├──[1.11]–首页接口服务端渲染.mp4 90.68M<br> ├──[1.12]–jokes页面banner开发.mp4 26.51M<br> ├──[1.13]–jokes页面表单模块.mp4 43.16M<br> ├──[1.14]–jokes页面表单查询列表.mp4 47.71M<br> ├──[1.15]–jokes页面分页模块.mp4 29.70M<br> ├──[1.16]–jokes接口逻辑开发.mp4 90.00M<br> ├──[1.17]–SSR初始化渲染.mp4 33.58M<br> ├──[1.18]–about页面开发.mp4 135.50M<br> ├──[1.19]–多页面head标签内容.mp4 94.09M<br> ├──[1.1]–课程介绍和案例展示.mp4 76.70M<br> ├──[1.20]–less、sass、stylus配置和使用.mp4 133.30M<br> ├──[1.2]–create-nuxt-app安装和使用.mp4 66.82M<br> ├──[1.3]–项目目录详解.mp4 127.31M<br> ├──[1.4]–create-nuxt-app项目目录下所有配置文件介绍.mp4 20.62M<br> ├──[1.5]–nuxt.config.js配置介绍.mp4 10.31M<br> ├──[1.6]–导航菜单栏组件开发.mp4 70.17M<br> ├──[1.7]–vscode快速生成vue单文件内容结构.mp4 43.20M<br> ├──[1.8]–路由page文件创建.mp4 39.67M<br> └──[1.9]–IndexPage页面模块UI开发.mp4 111.09M

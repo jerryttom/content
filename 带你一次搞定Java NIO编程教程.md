@@ -1,0 +1,5 @@
+带你一次搞定Java NIO编程教程
+
+全网it学习资源共享学习<br>全网课程都有，欢迎私聊<br>微信：jerryttom<br>
+
+<span style="font-size: large;"><span style="font-family: Tahoma;"><span style="color: #0000ff;"><strong>〖课程目录〗:</strong></span></span></span><br> <span style="font-family: &amp;quot;">&nbsp;&nbsp;</span><br> 课件/<br> └── 97_NIO-PDF.zip<br> 视频/<br> ├── 01-NIO课程导读.mp4<br> ├── 02-程序读取数据模型.mp4<br> ├── 03-NIO与传统IO的区别.mp4<br> ├── 04-缓冲区的常用属性.mp4<br> ├── 05-Buffer常用的API.mp4<br> ├── 06-演示Buffer的基本操作.mp4<br> ├── 07-缓冲区的批量传输.mp4<br> ├── 08-缓冲区创建的两种方式.mp4<br> ├── 09-缓冲区的复制与分隔.mp4<br> ├── 10-直接字节缓冲区.mp4<br> ├── 11-hannel概述.mp4<br> ├── 12-Scatter与Gather.mp4<br> ├── 13-FileChannel内存映射文件.mp4<br> ├── 14-FileChannel双向读写.mp4<br> ├── 15-FileChannel读写文件时缓冲区固定大小.mp4<br> ├── 16-FileChannel通道与通道之间的传输.mp4<br> ├── 17-Gather代码演示.mp4<br> ├── 18-SeverSocketChannel服务器.mp4<br> ├── 19-SocketChannel客户端.mp4<br> ├── 20-DatagramChannel数据接收端.mp4<br> ├── 21-DatagramChannel数据发送端.mp4<br> ├── 22-Pipe管道.mp4<br> ├── 23-elector选择器基础1.mp4<br> ├── 24-Selector选择器基础2.mp4<br> ├── 25-SelectionKey选择键常用方法.mp4<br> ├── 26-使用选择器1.mp4<br> ├── 27-服务器端代码模板.mp4<br> ├── 28-使用selector开发服务器端.mp4<br> └── 29-开发客户端.mp4<br> 源码/<br> └── 97_NIO-Code.zip
